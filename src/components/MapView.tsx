@@ -19,6 +19,10 @@ import { getRouteMetricValue } from "../utils/routeColor";
 
 const homeBounds = L.latLngBounds(HOME_BOUNDS[0], HOME_BOUNDS[1]);
 
+const CARTO_API_KEY = import.meta.env.VITE_CARTO_API_KEY as
+    | string
+    | undefined;
+
 interface HomeState {
     lat: number;
     lng: number;
@@ -155,7 +159,8 @@ export function MapView({
                 <MapClickClear onClear={onClearSelection} />
                 <TileLayer
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>'
-                    url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+                    url={`https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key=${CARTO_API_KEY}`}
+                    subdomains="abcd"
                 />
                 {[...routes]
                     .sort((a, b) => {
