@@ -93,16 +93,11 @@
   },
   "_comment": "Copy to .claude/settings.json in your repo root. Customize allow/deny lists for your project.",
   "enabledPlugins": {
-    "frontend-design@claude-plugins-official": true
+    "frontend-design@claude-plugins-official": true,
+    "commit-commands@claude-code-plugins": true,
+    "code-review@claude-code-plugins": true
   },
-  "hooks": {
-    "Stop": [
-      {
-        "type": "prompt",
-        "model": "claude-haiku-4-5-20251001",
-        "timeout": 30,
-        "prompt": "You are a senior React/TypeScript developer reviewing code changes just made by an AI assistant in this conversation. Review any code written or edited in this turn for these specific issues:\n\n1. INLINE DISPLAY TEXT: JSX strings that are user-facing labels, descriptions, or messages (e.g. \"Time lost daily if...\", \"Transit vs Peak Traffic\") should be extracted into a named constant object (e.g. const LABELS = {...} or const TEXT = {...}) at the top of the file, not written inline in JSX. Short prop values (aria labels, className values, event handler descriptions) are fine inline.\n\n2. CSS CONSISTENCY: This project's rule — Leaflet integration and global/reusable UI elements use CSS classes in index.css; React component internal layout uses inline style={{}}. Flag only if this rule is violated (e.g. adding a new CSS class for something that should be inline, or using inline styles for something that should be a shared class).\n\n3. CLARITY: Flag only clear readability problems — deeply nested ternaries that could be named variables, magic numbers without context, or functions doing obviously too many things.\n\nIMPORTANT: Only flag issues introduced in THIS turn's changes. If you have already flagged issues in this conversation and they were addressed, respond {\"ok\": true} to avoid looping. Be specific: include the file name and the exact string or pattern to fix.\n\nRespond ONLY with JSON: {\"ok\": true} or {\"ok\": false, \"reason\": \"<concise list of specific issues>\"}"
-      }
-    ]
-  }
+  "frontend-design@claude-plugins-official": true,
+  "commit-commands@claude-code-plugins": true,
+  "code-review@claude-code-plugins": true
 }

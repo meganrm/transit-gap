@@ -9,7 +9,7 @@
   },
   "countyFips": "53033",
   "lodesYear": 2021,
-  "topN": 150,
+  "topN": 200,
   "primaryN": 60,
   "minCommuters": 50,
   "excludeSelfTracts": true,

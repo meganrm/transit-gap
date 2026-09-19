@@ -34,5 +34,7 @@
   "Uptown": { "lat": 47.6218, "lng": -122.3544 },
   "Laurelhurst": { "lat": 47.6630, "lng": -122.2740 },
   "Lake City": { "lat": 47.7175, "lng": -122.2880 },
-  "Greenwood": { "lat": 47.6930, "lng": -122.3555 }
+  "Greenwood": { "lat": 47.6930, "lng": -122.3555 },
+  "Downtown Bellevue": { "lat": 47.6162, "lng": -122.2018 },
+  "Mercer Island": { "lat": 47.5707, "lng": -122.2219 }
 }

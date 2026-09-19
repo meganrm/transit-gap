@@ -1,6 +1,6 @@
 {
   "sourceLabel": "LODES commute data (2021) + Google Maps",
-  "generatedAt": "2026-03-31T18:57:10.912Z",
+  "generatedAt": "2026-04-06T18:46:28.981Z",
   "routes": [
     {
       "id": 1,
@@ -276,16 +276,16 @@
     },
     {
       "id": 11,
-      "name": "Rainier Valley → First Hill",
-      "description": "1,430 daily commuters",
+      "name": "Downtown Bellevue → Mount Baker",
+      "description": "1,594 daily commuters",
       "coordinates": [
         [
-          47.5318,
-          -122.2762
+          47.6162,
+          -122.2018
         ],
         [
-          47.6065,
-          -122.3188
+          47.5817,
+          -122.2927
         ]
       ],
       "carMinutes": 13,
@@ -297,18 +297,18 @@
       "transitWalkMinutes": 14,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 1430,
+      "dailyCommuters": 1594,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 12,
-      "name": "Capitol Hill → First Hill",
-      "description": "1,308 daily commuters",
+      "name": "Rainier Valley → First Hill",
+      "description": "1,430 daily commuters",
       "coordinates": [
         [
-          47.6253,
-          -122.317
+          47.5318,
+          -122.2762
         ],
         [
           47.6065,
@@ -324,18 +324,18 @@
       "transitWalkMinutes": 12,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 1308,
+      "dailyCommuters": 1430,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 13,
-      "name": "Lake City → Downtown",
-      "description": "1,308 daily commuters",
+      "name": "Downtown Bellevue → Downtown",
+      "description": "1,343 daily commuters",
       "coordinates": [
         [
-          47.7175,
-          -122.288
+          47.6162,
+          -122.2018
         ],
         [
           47.605,
@@ -352,22 +352,22 @@
       "transitWalkMinutes": 11,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 1308,
+      "dailyCommuters": 1343,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 14,
-      "name": "Columbia City → Downtown",
-      "description": "1,277 daily commuters",
+      "name": "Capitol Hill → First Hill",
+      "description": "1,308 daily commuters",
       "coordinates": [
         [
-          47.5592,
-          -122.2906
+          47.6253,
+          -122.317
         ],
         [
-          47.605,
-          -122.335
+          47.6065,
+          -122.3188
         ]
       ],
       "carMinutes": 11,
@@ -379,18 +379,18 @@
       "transitWalkMinutes": 11,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 1277,
+      "dailyCommuters": 1308,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 15,
-      "name": "Belltown → Downtown",
-      "description": "1,273 daily commuters",
+      "name": "Lake City → Downtown",
+      "description": "1,308 daily commuters",
       "coordinates": [
         [
-          47.613,
-          -122.349
+          47.7175,
+          -122.288
         ],
         [
           47.605,
@@ -406,22 +406,22 @@
       "transitWalkMinutes": 11,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 1273,
+      "dailyCommuters": 1308,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 16,
-      "name": "Delridge → South Lake Union",
-      "description": "1,267 daily commuters",
+      "name": "Columbia City → Downtown",
+      "description": "1,277 daily commuters",
       "coordinates": [
         [
-          47.5295,
-          -122.363
+          47.5592,
+          -122.2906
         ],
         [
-          47.624,
-          -122.3366
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 16,
@@ -434,22 +434,22 @@
       "transitWalkMinutes": 12,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 1267,
+      "dailyCommuters": 1277,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 17,
-      "name": "Magnolia → Downtown",
-      "description": "1,245 daily commuters",
+      "name": "South Lake Union → Downtown Bellevue",
+      "description": "1,275 daily commuters",
       "coordinates": [
         [
-          47.6478,
-          -122.4007
+          47.624,
+          -122.3366
         ],
         [
-          47.605,
-          -122.335
+          47.6162,
+          -122.2018
         ]
       ],
       "carMinutes": 12,
@@ -461,22 +461,22 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 1245,
+      "dailyCommuters": 1275,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 18,
-      "name": "Ballard → Mount Baker",
-      "description": "1,241 daily commuters",
+      "name": "Belltown → Downtown",
+      "description": "1,273 daily commuters",
       "coordinates": [
         [
-          47.6677,
-          -122.3831
+          47.613,
+          -122.349
         ],
         [
-          47.5817,
-          -122.2927
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 21,
@@ -489,22 +489,22 @@
       "transitWalkMinutes": 3,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 9,
-      "dailyCommuters": 1241,
+      "dailyCommuters": 1273,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 19,
-      "name": "Admiral → Downtown",
-      "description": "1,227 daily commuters",
+      "name": "Delridge → South Lake Union",
+      "description": "1,267 daily commuters",
       "coordinates": [
         [
-          47.5785,
-          -122.382
+          47.5295,
+          -122.363
         ],
         [
-          47.605,
-          -122.335
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 11,
@@ -516,18 +516,18 @@
       "transitWalkMinutes": 7,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 1227,
+      "dailyCommuters": 1267,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 20,
-      "name": "Rainier Valley → Downtown",
-      "description": "1,218 daily commuters",
+      "name": "Magnolia → Downtown",
+      "description": "1,245 daily commuters",
       "coordinates": [
         [
-          47.5318,
-          -122.2762
+          47.6478,
+          -122.4007
         ],
         [
           47.605,
@@ -543,22 +543,22 @@
       "transitWalkMinutes": 21,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 1218,
+      "dailyCommuters": 1245,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 21,
-      "name": "Northgate → First Hill",
-      "description": "1,177 daily commuters",
+      "name": "Ballard → Mount Baker",
+      "description": "1,241 daily commuters",
       "coordinates": [
         [
-          47.7058,
-          -122.3264
+          47.6677,
+          -122.3831
         ],
         [
-          47.6065,
-          -122.3188
+          47.5817,
+          -122.2927
         ]
       ],
       "carMinutes": 14,
@@ -571,18 +571,18 @@
       "transitWalkMinutes": 10,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 7,
-      "dailyCommuters": 1177,
+      "dailyCommuters": 1241,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 22,
-      "name": "South Lake Union → Downtown",
-      "description": "1,168 daily commuters",
+      "name": "Admiral → Downtown",
+      "description": "1,227 daily commuters",
       "coordinates": [
         [
-          47.624,
-          -122.3366
+          47.5785,
+          -122.382
         ],
         [
           47.605,
@@ -598,22 +598,22 @@
       "transitWalkMinutes": 7,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 1168,
+      "dailyCommuters": 1227,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 23,
-      "name": "Delridge → SODO",
-      "description": "1,138 daily commuters",
+      "name": "Rainier Valley → Downtown",
+      "description": "1,218 daily commuters",
       "coordinates": [
         [
-          47.5295,
-          -122.363
+          47.5318,
+          -122.2762
         ],
         [
-          47.5791,
-          -122.3294
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 12,
@@ -626,12 +626,148 @@
       "transitWalkMinutes": 10,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 8,
-      "dailyCommuters": 1138,
+      "dailyCommuters": 1218,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 24,
+      "name": "Northgate → First Hill",
+      "description": "1,177 daily commuters",
+      "coordinates": [
+        [
+          47.7058,
+          -122.3264
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 8,
+      "carMinutesPeak": 12,
+      "transitMinutes": 27,
+      "transitModes": [
+        "14"
+      ],
+      "transitWalkMinutes": 15,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1177,
+      "peakHours": "PM",
+      "supplemental": false
+    },
+    {
+      "id": 25,
+      "name": "South Lake Union → Downtown",
+      "description": "1,168 daily commuters",
+      "coordinates": [
+        [
+          47.624,
+          -122.3366
+        ],
+        [
+          47.605,
+          -122.335
+        ]
+      ],
+      "carMinutes": 11,
+      "carMinutesPeak": 19,
+      "transitMinutes": 35,
+      "transitModes": [
+        "1 Line",
+        "4"
+      ],
+      "transitWalkMinutes": 8,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 7,
+      "dailyCommuters": 1168,
+      "peakHours": "AM",
+      "supplemental": false
+    },
+    {
+      "id": 26,
+      "name": "First Hill → Downtown Bellevue",
+      "description": "1,152 daily commuters",
+      "coordinates": [
+        [
+          47.6065,
+          -122.3188
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 13,
+      "carMinutesPeak": 25,
+      "transitMinutes": 34,
+      "transitModes": [
+        "1 Line"
+      ],
+      "transitWalkMinutes": 21,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1152,
+      "peakHours": "PM",
+      "supplemental": false
+    },
+    {
+      "id": 27,
+      "name": "Belltown → Downtown Bellevue",
+      "description": "1,141 daily commuters",
+      "coordinates": [
+        [
+          47.613,
+          -122.349
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 18,
+      "transitMinutes": 25,
+      "transitModes": [
+        "13"
+      ],
+      "transitWalkMinutes": 3,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1141,
+      "peakHours": "PM",
+      "supplemental": false
+    },
+    {
+      "id": 28,
+      "name": "Delridge → SODO",
+      "description": "1,138 daily commuters",
+      "coordinates": [
+        [
+          47.5295,
+          -122.363
+        ],
+        [
+          47.5791,
+          -122.3294
+        ]
+      ],
+      "carMinutes": 17,
+      "carMinutesPeak": 29,
+      "transitMinutes": 54,
+      "transitModes": [
+        "40"
+      ],
+      "transitWalkMinutes": 11,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1138,
+      "peakHours": "AM",
+      "supplemental": false
+    },
+    {
+      "id": 29,
       "name": "First Hill → Mount Baker",
       "description": "1,126 daily commuters",
       "coordinates": [
@@ -644,21 +780,22 @@
           -122.2927
         ]
       ],
-      "carMinutes": 8,
-      "carMinutesPeak": 12,
-      "transitMinutes": 27,
+      "carMinutes": 13,
+      "carMinutesPeak": 27,
+      "transitMinutes": 49,
       "transitModes": [
-        "14"
+        "62",
+        "1 Line"
       ],
-      "transitWalkMinutes": 15,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
+      "transitWalkMinutes": 20,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 8,
       "dailyCommuters": 1126,
       "peakHours": "PM",
       "supplemental": false
     },
     {
-      "id": 25,
+      "id": 30,
       "name": "Columbia City → First Hill",
       "description": "1,123 daily commuters",
       "coordinates": [
@@ -672,21 +809,20 @@
         ]
       ],
       "carMinutes": 11,
-      "carMinutesPeak": 19,
-      "transitMinutes": 35,
+      "carMinutesPeak": 26,
+      "transitMinutes": 43,
       "transitModes": [
-        "1 Line",
-        "4"
+        "5"
       ],
-      "transitWalkMinutes": 8,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 7,
+      "transitWalkMinutes": 12,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
       "dailyCommuters": 1123,
       "peakHours": "AM",
       "supplemental": false
     },
     {
-      "id": 26,
+      "id": 31,
       "name": "Ravenna → Downtown",
       "description": "1,122 daily commuters",
       "coordinates": [
@@ -699,21 +835,49 @@
           -122.335
         ]
       ],
-      "carMinutes": 13,
-      "carMinutesPeak": 25,
-      "transitMinutes": 34,
+      "carMinutes": 12,
+      "carMinutesPeak": 28,
+      "transitMinutes": 39,
       "transitModes": [
-        "1 Line"
+        "1 Line",
+        "South Lake Union Streetcar"
       ],
-      "transitWalkMinutes": 21,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
+      "transitWalkMinutes": 10,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 9,
       "dailyCommuters": 1122,
-      "peakHours": "PM",
+      "peakHours": "AM",
       "supplemental": false
     },
     {
-      "id": 27,
+      "id": 32,
+      "name": "Delridge → Downtown Bellevue",
+      "description": "1,113 daily commuters",
+      "coordinates": [
+        [
+          47.5295,
+          -122.363
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 13,
+      "carMinutesPeak": 22,
+      "transitMinutes": 26,
+      "transitModes": [
+        "40"
+      ],
+      "transitWalkMinutes": 4,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1113,
+      "peakHours": "AM",
+      "supplemental": false
+    },
+    {
+      "id": 33,
       "name": "Queen Anne → Downtown",
       "description": "1,105 daily commuters",
       "coordinates": [
@@ -726,13 +890,13 @@
           -122.335
         ]
       ],
-      "carMinutes": 10,
+      "carMinutes": 13,
       "carMinutesPeak": 18,
-      "transitMinutes": 25,
+      "transitMinutes": 45,
       "transitModes": [
-        "13"
+        "8"
       ],
-      "transitWalkMinutes": 3,
+      "transitWalkMinutes": 19,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
       "dailyCommuters": 1105,
@@ -740,7 +904,7 @@
       "supplemental": false
     },
     {
-      "id": 28,
+      "id": 34,
       "name": "Loyal Heights → Downtown",
       "description": "1,092 daily commuters",
       "coordinates": [
@@ -753,21 +917,49 @@
           -122.335
         ]
       ],
-      "carMinutes": 17,
-      "carMinutesPeak": 29,
-      "transitMinutes": 54,
+      "carMinutes": 12,
+      "carMinutesPeak": 24,
+      "transitMinutes": 42,
       "transitModes": [
-        "40"
+        "C Line",
+        "4"
       ],
-      "transitWalkMinutes": 11,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
+      "transitWalkMinutes": 4,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 8,
       "dailyCommuters": 1092,
       "peakHours": "AM",
       "supplemental": false
     },
     {
-      "id": 29,
+      "id": 35,
+      "name": "Mercer Island → Downtown",
+      "description": "1,089 daily commuters",
+      "coordinates": [
+        [
+          47.5707,
+          -122.2219
+        ],
+        [
+          47.605,
+          -122.335
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 21,
+      "transitMinutes": 16,
+      "transitModes": [
+        "2 Line"
+      ],
+      "transitWalkMinutes": 11,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1089,
+      "peakHours": "AM",
+      "supplemental": false
+    },
+    {
+      "id": 36,
       "name": "Wedgwood → Downtown",
       "description": "1,071 daily commuters",
       "coordinates": [
@@ -780,22 +972,48 @@
           -122.335
         ]
       ],
-      "carMinutes": 13,
-      "carMinutesPeak": 27,
-      "transitMinutes": 49,
+      "carMinutes": 10,
+      "carMinutesPeak": 11,
+      "transitMinutes": 25,
       "transitModes": [
-        "62",
-        "1 Line"
+        "8"
       ],
-      "transitWalkMinutes": 20,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 8,
+      "transitWalkMinutes": 18,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
       "dailyCommuters": 1071,
       "peakHours": "PM",
       "supplemental": false
     },
     {
-      "id": 30,
+      "id": 37,
+      "name": "Capitol Hill → Downtown Bellevue",
+      "description": "1,068 daily commuters",
+      "coordinates": [
+        [
+          47.6253,
+          -122.317
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 7,
+      "carMinutesPeak": 13,
+      "transitMinutes": 20,
+      "transitModes": [
+        "1"
+      ],
+      "transitWalkMinutes": 5,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1068,
+      "peakHours": "PM",
+      "supplemental": false
+    },
+    {
+      "id": 38,
       "name": "Greenwood → South Lake Union",
       "description": "1,059 daily commuters",
       "coordinates": [
@@ -808,21 +1026,21 @@
           -122.3366
         ]
       ],
-      "carMinutes": 11,
-      "carMinutesPeak": 26,
-      "transitMinutes": 43,
+      "carMinutes": 9,
+      "carMinutesPeak": 20,
+      "transitMinutes": 44,
       "transitModes": [
-        "5"
+        "62"
       ],
-      "transitWalkMinutes": 12,
+      "transitWalkMinutes": 9,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
       "dailyCommuters": 1059,
-      "peakHours": "AM",
+      "peakHours": "PM",
       "supplemental": false
     },
     {
-      "id": 31,
+      "id": 39,
       "name": "Northgate → South Lake Union",
       "description": "1,056 daily commuters",
       "coordinates": [
@@ -836,21 +1054,20 @@
         ]
       ],
       "carMinutes": 12,
-      "carMinutesPeak": 28,
-      "transitMinutes": 39,
+      "carMinutesPeak": 17,
+      "transitMinutes": 30,
       "transitModes": [
-        "1 Line",
-        "South Lake Union Streetcar"
+        "G Line"
       ],
-      "transitWalkMinutes": 10,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 9,
+      "transitWalkMinutes": 16,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
       "dailyCommuters": 1056,
-      "peakHours": "AM",
+      "peakHours": "PM",
       "supplemental": false
     },
     {
-      "id": 32,
+      "id": 40,
       "name": "Ballard → South Lake Union",
       "description": "1,049 daily commuters",
       "coordinates": [
@@ -864,12 +1081,12 @@
         ]
       ],
       "carMinutes": 13,
-      "carMinutesPeak": 22,
-      "transitMinutes": 26,
+      "carMinutesPeak": 20,
+      "transitMinutes": 41,
       "transitModes": [
-        "40"
+        "372"
       ],
-      "transitWalkMinutes": 4,
+      "transitWalkMinutes": 13,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
       "dailyCommuters": 1049,
@@ -877,7 +1094,34 @@
       "supplemental": false
     },
     {
-      "id": 33,
+      "id": 41,
+      "name": "Northgate → Downtown Bellevue",
+      "description": "1,045 daily commuters",
+      "coordinates": [
+        [
+          47.7058,
+          -122.3264
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 9,
+      "carMinutesPeak": 13,
+      "transitMinutes": 37,
+      "transitModes": [
+        "65"
+      ],
+      "transitWalkMinutes": 16,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1045,
+      "peakHours": "PM",
+      "supplemental": false
+    },
+    {
+      "id": 42,
       "name": "Capitol Hill → Mount Baker",
       "description": "1,024 daily commuters",
       "coordinates": [
@@ -890,21 +1134,49 @@
           -122.2927
         ]
       ],
-      "carMinutes": 13,
-      "carMinutesPeak": 18,
-      "transitMinutes": 45,
+      "carMinutes": 8,
+      "carMinutesPeak": 15,
+      "transitMinutes": 35,
       "transitModes": [
-        "8"
+        "4",
+        "70"
       ],
-      "transitWalkMinutes": 19,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
+      "transitWalkMinutes": 7,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 5,
       "dailyCommuters": 1024,
       "peakHours": "PM",
       "supplemental": false
     },
     {
-      "id": 34,
+      "id": 43,
+      "name": "Mercer Island → Downtown Bellevue",
+      "description": "1,015 daily commuters",
+      "coordinates": [
+        [
+          47.5707,
+          -122.2219
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 14,
+      "transitMinutes": 27,
+      "transitModes": [
+        "70"
+      ],
+      "transitWalkMinutes": 4,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 1015,
+      "peakHours": "PM",
+      "supplemental": false
+    },
+    {
+      "id": 44,
       "name": "West Seattle → First Hill",
       "description": "996 daily commuters",
       "coordinates": [
@@ -917,22 +1189,21 @@
           -122.3188
         ]
       ],
-      "carMinutes": 12,
-      "carMinutesPeak": 24,
-      "transitMinutes": 42,
+      "carMinutes": 11,
+      "carMinutesPeak": 20,
+      "transitMinutes": 37,
       "transitModes": [
-        "C Line",
-        "4"
+        "5"
       ],
-      "transitWalkMinutes": 4,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 8,
+      "transitWalkMinutes": 8,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
       "dailyCommuters": 996,
       "peakHours": "AM",
       "supplemental": false
     },
     {
-      "id": 35,
+      "id": 45,
       "name": "Northgate → University District",
       "description": "992 daily commuters",
       "coordinates": [
@@ -943,277 +1214,6 @@
         [
           47.6584,
           -122.3117
-        ]
-      ],
-      "carMinutes": 10,
-      "carMinutesPeak": 21,
-      "transitMinutes": 16,
-      "transitModes": [
-        "1 Line"
-      ],
-      "transitWalkMinutes": 11,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 992,
-      "peakHours": "AM",
-      "supplemental": false
-    },
-    {
-      "id": 36,
-      "name": "Capitol Hill → South Lake Union",
-      "description": "989 daily commuters",
-      "coordinates": [
-        [
-          47.6253,
-          -122.317
-        ],
-        [
-          47.624,
-          -122.3366
-        ]
-      ],
-      "carMinutes": 10,
-      "carMinutesPeak": 11,
-      "transitMinutes": 25,
-      "transitModes": [
-        "8"
-      ],
-      "transitWalkMinutes": 18,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 989,
-      "peakHours": "PM",
-      "supplemental": false
-    },
-    {
-      "id": 37,
-      "name": "Uptown → Downtown",
-      "description": "963 daily commuters",
-      "coordinates": [
-        [
-          47.6218,
-          -122.3544
-        ],
-        [
-          47.605,
-          -122.335
-        ]
-      ],
-      "carMinutes": 7,
-      "carMinutesPeak": 13,
-      "transitMinutes": 20,
-      "transitModes": [
-        "1"
-      ],
-      "transitWalkMinutes": 5,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 963,
-      "peakHours": "PM",
-      "supplemental": false
-    },
-    {
-      "id": 38,
-      "name": "Wallingford → Downtown",
-      "description": "958 daily commuters",
-      "coordinates": [
-        [
-          47.6601,
-          -122.334
-        ],
-        [
-          47.605,
-          -122.335
-        ]
-      ],
-      "carMinutes": 9,
-      "carMinutesPeak": 20,
-      "transitMinutes": 44,
-      "transitModes": [
-        "62"
-      ],
-      "transitWalkMinutes": 9,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 958,
-      "peakHours": "PM",
-      "supplemental": false
-    },
-    {
-      "id": 39,
-      "name": "Madison Valley → Downtown",
-      "description": "946 daily commuters",
-      "coordinates": [
-        [
-          47.6175,
-          -122.2912
-        ],
-        [
-          47.605,
-          -122.335
-        ]
-      ],
-      "carMinutes": 12,
-      "carMinutesPeak": 17,
-      "transitMinutes": 30,
-      "transitModes": [
-        "G Line"
-      ],
-      "transitWalkMinutes": 16,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 946,
-      "peakHours": "PM",
-      "supplemental": false
-    },
-    {
-      "id": 40,
-      "name": "Lake City → University District",
-      "description": "933 daily commuters",
-      "coordinates": [
-        [
-          47.7175,
-          -122.288
-        ],
-        [
-          47.6584,
-          -122.3117
-        ]
-      ],
-      "carMinutes": 13,
-      "carMinutesPeak": 20,
-      "transitMinutes": 41,
-      "transitModes": [
-        "372"
-      ],
-      "transitWalkMinutes": 13,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 933,
-      "peakHours": "AM",
-      "supplemental": false
-    },
-    {
-      "id": 41,
-      "name": "Wedgwood → University District",
-      "description": "930 daily commuters",
-      "coordinates": [
-        [
-          47.6852,
-          -122.285
-        ],
-        [
-          47.6584,
-          -122.3117
-        ]
-      ],
-      "carMinutes": 9,
-      "carMinutesPeak": 13,
-      "transitMinutes": 37,
-      "transitModes": [
-        "65"
-      ],
-      "transitWalkMinutes": 16,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 930,
-      "peakHours": "PM",
-      "supplemental": false
-    },
-    {
-      "id": 42,
-      "name": "First Hill → South Lake Union",
-      "description": "921 daily commuters",
-      "coordinates": [
-        [
-          47.6065,
-          -122.3188
-        ],
-        [
-          47.624,
-          -122.3366
-        ]
-      ],
-      "carMinutes": 8,
-      "carMinutesPeak": 15,
-      "transitMinutes": 35,
-      "transitModes": [
-        "4",
-        "70"
-      ],
-      "transitWalkMinutes": 7,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 921,
-      "peakHours": "PM",
-      "supplemental": false
-    },
-    {
-      "id": 43,
-      "name": "Eastlake → Downtown",
-      "description": "919 daily commuters",
-      "coordinates": [
-        [
-          47.6428,
-          -122.3254
-        ],
-        [
-          47.605,
-          -122.335
-        ]
-      ],
-      "carMinutes": 6,
-      "carMinutesPeak": 14,
-      "transitMinutes": 27,
-      "transitModes": [
-        "70"
-      ],
-      "transitWalkMinutes": 4,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 919,
-      "peakHours": "PM",
-      "supplemental": false
-    },
-    {
-      "id": 44,
-      "name": "Phinney Ridge → Downtown",
-      "description": "915 daily commuters",
-      "coordinates": [
-        [
-          47.6656,
-          -122.3556
-        ],
-        [
-          47.605,
-          -122.335
-        ]
-      ],
-      "carMinutes": 11,
-      "carMinutesPeak": 20,
-      "transitMinutes": 37,
-      "transitModes": [
-        "5"
-      ],
-      "transitWalkMinutes": 8,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 915,
-      "peakHours": "AM",
-      "supplemental": false
-    },
-    {
-      "id": 45,
-      "name": "Lake City → First Hill",
-      "description": "898 daily commuters",
-      "coordinates": [
-        [
-          47.7175,
-          -122.288
-        ],
-        [
-          47.6065,
-          -122.3188
         ]
       ],
       "carMinutes": 16,
@@ -1227,18 +1227,18 @@
       "transitWalkMinutes": 10,
       "transitTransfers": 2,
       "transitMaxWaitMinutes": 13,
-      "dailyCommuters": 898,
+      "dailyCommuters": 992,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 46,
-      "name": "West Seattle → South Lake Union",
-      "description": "874 daily commuters",
+      "name": "Capitol Hill → South Lake Union",
+      "description": "989 daily commuters",
       "coordinates": [
         [
-          47.5603,
-          -122.3868
+          47.6253,
+          -122.317
         ],
         [
           47.624,
@@ -1254,18 +1254,18 @@
       "transitWalkMinutes": 6,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 874,
+      "dailyCommuters": 989,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 47,
-      "name": "Central District → Downtown",
-      "description": "865 daily commuters",
+      "name": "Uptown → Downtown",
+      "description": "963 daily commuters",
       "coordinates": [
         [
-          47.6031,
-          -122.2949
+          47.6218,
+          -122.3544
         ],
         [
           47.605,
@@ -1281,22 +1281,22 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 865,
+      "dailyCommuters": 963,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 48,
-      "name": "Greenwood → First Hill",
-      "description": "849 daily commuters",
+      "name": "Wallingford → Downtown",
+      "description": "958 daily commuters",
       "coordinates": [
         [
-          47.693,
-          -122.3555
+          47.6601,
+          -122.334
         ],
         [
-          47.6065,
-          -122.3188
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 13,
@@ -1309,18 +1309,18 @@
       "transitWalkMinutes": 4,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 11,
-      "dailyCommuters": 849,
+      "dailyCommuters": 958,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 49,
-      "name": "Fremont → Downtown",
-      "description": "847 daily commuters",
+      "name": "Madison Valley → Downtown",
+      "description": "946 daily commuters",
       "coordinates": [
         [
-          47.651,
-          -122.3511
+          47.6175,
+          -122.2912
         ],
         [
           47.605,
@@ -1336,22 +1336,22 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 847,
+      "dailyCommuters": 946,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 50,
-      "name": "Uptown → Mount Baker",
-      "description": "831 daily commuters",
+      "name": "Lake City → University District",
+      "description": "933 daily commuters",
       "coordinates": [
         [
-          47.6218,
-          -122.3544
+          47.7175,
+          -122.288
         ],
         [
-          47.5817,
-          -122.2927
+          47.6584,
+          -122.3117
         ]
       ],
       "carMinutes": 12,
@@ -1363,18 +1363,18 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 831,
+      "dailyCommuters": 933,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 51,
-      "name": "Capitol Hill → University District",
-      "description": "824 daily commuters",
+      "name": "Wedgwood → University District",
+      "description": "930 daily commuters",
       "coordinates": [
         [
-          47.6253,
-          -122.317
+          47.6852,
+          -122.285
         ],
         [
           47.6584,
@@ -1390,22 +1390,22 @@
       "transitWalkMinutes": 6,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 824,
+      "dailyCommuters": 930,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 52,
-      "name": "Green Lake → Downtown",
-      "description": "806 daily commuters",
+      "name": "Ballard → Downtown Bellevue",
+      "description": "928 daily commuters",
       "coordinates": [
         [
-          47.68,
-          -122.3285
+          47.6677,
+          -122.3831
         ],
         [
-          47.605,
-          -122.335
+          47.6162,
+          -122.2018
         ]
       ],
       "carMinutes": 12,
@@ -1418,22 +1418,22 @@
       "transitWalkMinutes": 11,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 9,
-      "dailyCommuters": 806,
+      "dailyCommuters": 928,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 53,
-      "name": "Ravenna → University District",
-      "description": "795 daily commuters",
+      "name": "First Hill → South Lake Union",
+      "description": "921 daily commuters",
       "coordinates": [
         [
-          47.6728,
-          -122.3058
+          47.6065,
+          -122.3188
         ],
         [
-          47.6584,
-          -122.3117
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 5,
@@ -1445,22 +1445,22 @@
       "transitWalkMinutes": 7,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 795,
+      "dailyCommuters": 921,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 54,
-      "name": "Lake City → South Lake Union",
-      "description": "794 daily commuters",
+      "name": "Eastlake → Downtown",
+      "description": "919 daily commuters",
       "coordinates": [
         [
-          47.7175,
-          -122.288
+          47.6428,
+          -122.3254
         ],
         [
-          47.624,
-          -122.3366
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 14,
@@ -1473,22 +1473,22 @@
       "transitWalkMinutes": 9,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 6,
-      "dailyCommuters": 794,
+      "dailyCommuters": 919,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 55,
-      "name": "Northgate → Mount Baker",
-      "description": "788 daily commuters",
+      "name": "Phinney Ridge → Downtown",
+      "description": "915 daily commuters",
       "coordinates": [
         [
-          47.7058,
-          -122.3264
+          47.6656,
+          -122.3556
         ],
         [
-          47.5817,
-          -122.2927
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 17,
@@ -1500,22 +1500,22 @@
       "transitWalkMinutes": 22,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 788,
+      "dailyCommuters": 915,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 56,
-      "name": "Queen Anne → Mount Baker",
-      "description": "775 daily commuters",
+      "name": "Lake City → First Hill",
+      "description": "898 daily commuters",
       "coordinates": [
         [
-          47.6373,
-          -122.3565
+          47.7175,
+          -122.288
         ],
         [
-          47.5817,
-          -122.2927
+          47.6065,
+          -122.3188
         ]
       ],
       "carMinutes": 15,
@@ -1528,22 +1528,22 @@
       "transitWalkMinutes": 3,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 12,
-      "dailyCommuters": 775,
+      "dailyCommuters": 898,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 57,
-      "name": "Downtown → Mount Baker",
-      "description": "769 daily commuters",
+      "name": "West Seattle → South Lake Union",
+      "description": "874 daily commuters",
       "coordinates": [
         [
-          47.605,
-          -122.335
+          47.5603,
+          -122.3868
         ],
         [
-          47.5817,
-          -122.2927
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 9,
@@ -1555,22 +1555,22 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 769,
+      "dailyCommuters": 874,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 58,
-      "name": "Ballard → First Hill",
-      "description": "765 daily commuters",
+      "name": "Downtown Bellevue → South Lake Union",
+      "description": "871 daily commuters",
       "coordinates": [
         [
-          47.6677,
-          -122.3831
+          47.6162,
+          -122.2018
         ],
         [
-          47.6065,
-          -122.3188
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 18,
@@ -1583,22 +1583,22 @@
       "transitWalkMinutes": 2,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 765,
+      "dailyCommuters": 871,
       "peakHours": "PM",
       "supplemental": false
     },
     {
       "id": 59,
-      "name": "Loyal Heights → South Lake Union",
-      "description": "761 daily commuters",
+      "name": "Central District → Downtown",
+      "description": "865 daily commuters",
       "coordinates": [
         [
-          47.6862,
-          -122.3941
+          47.6031,
+          -122.2949
         ],
         [
-          47.624,
-          -122.3366
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 17,
@@ -1610,22 +1610,22 @@
       "transitWalkMinutes": 12,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 761,
+      "dailyCommuters": 865,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 60,
-      "name": "West Seattle → SODO",
-      "description": "761 daily commuters",
+      "name": "Greenwood → First Hill",
+      "description": "849 daily commuters",
       "coordinates": [
         [
-          47.5603,
-          -122.3868
+          47.693,
+          -122.3555
         ],
         [
-          47.5791,
-          -122.3294
+          47.6065,
+          -122.3188
         ]
       ],
       "carMinutes": 8,
@@ -1637,22 +1637,22 @@
       "transitWalkMinutes": 7,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 761,
+      "dailyCommuters": 849,
       "peakHours": "AM",
       "supplemental": false
     },
     {
       "id": 61,
-      "name": "Delridge → Mount Baker",
-      "description": "754 daily commuters",
+      "name": "Fremont → Downtown",
+      "description": "847 daily commuters",
       "coordinates": [
         [
-          47.5295,
-          -122.363
+          47.651,
+          -122.3511
         ],
         [
-          47.5817,
-          -122.2927
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 16,
@@ -1665,22 +1665,22 @@
       "transitWalkMinutes": 10,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 12,
-      "dailyCommuters": 754,
+      "dailyCommuters": 847,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 62,
-      "name": "Delridge → Belltown",
-      "description": "753 daily commuters",
+      "name": "Greenwood → Downtown Bellevue",
+      "description": "832 daily commuters",
       "coordinates": [
         [
-          47.5295,
-          -122.363
+          47.693,
+          -122.3555
         ],
         [
-          47.613,
-          -122.349
+          47.6162,
+          -122.2018
         ]
       ],
       "carMinutes": 17,
@@ -1692,22 +1692,22 @@
       "transitWalkMinutes": 17,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 753,
+      "dailyCommuters": 832,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 63,
-      "name": "Rainier Valley → SODO",
-      "description": "748 daily commuters",
+      "name": "Uptown → Mount Baker",
+      "description": "831 daily commuters",
       "coordinates": [
         [
-          47.5318,
-          -122.2762
+          47.6218,
+          -122.3544
         ],
         [
-          47.5791,
-          -122.3294
+          47.5817,
+          -122.2927
         ]
       ],
       "carMinutes": 10,
@@ -1719,22 +1719,22 @@
       "transitWalkMinutes": 20,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 748,
+      "dailyCommuters": 831,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 64,
-      "name": "Central District → First Hill",
-      "description": "730 daily commuters",
+      "name": "West Seattle → Downtown Bellevue",
+      "description": "827 daily commuters",
       "coordinates": [
         [
-          47.6031,
-          -122.2949
+          47.5603,
+          -122.3868
         ],
         [
-          47.6065,
-          -122.3188
+          47.6162,
+          -122.2018
         ]
       ],
       "carMinutes": 6,
@@ -1746,18 +1746,18 @@
       "transitWalkMinutes": 16,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 730,
+      "dailyCommuters": 827,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 65,
-      "name": "Greenwood → University District",
-      "description": "728 daily commuters",
+      "name": "Capitol Hill → University District",
+      "description": "824 daily commuters",
       "coordinates": [
         [
-          47.693,
-          -122.3555
+          47.6253,
+          -122.317
         ],
         [
           47.6584,
@@ -1773,18 +1773,18 @@
       "transitWalkMinutes": 14,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 728,
+      "dailyCommuters": 824,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 66,
-      "name": "Mount Baker → Downtown",
-      "description": "707 daily commuters",
+      "name": "Green Lake → Downtown",
+      "description": "806 daily commuters",
       "coordinates": [
         [
-          47.5817,
-          -122.2927
+          47.68,
+          -122.3285
         ],
         [
           47.605,
@@ -1801,22 +1801,22 @@
       "transitWalkMinutes": 6,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 7,
-      "dailyCommuters": 707,
+      "dailyCommuters": 806,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 67,
-      "name": "West Seattle → Mount Baker",
-      "description": "706 daily commuters",
+      "name": "Ravenna → University District",
+      "description": "795 daily commuters",
       "coordinates": [
         [
-          47.5603,
-          -122.3868
+          47.6728,
+          -122.3058
         ],
         [
-          47.5817,
-          -122.2927
+          47.6584,
+          -122.3117
         ]
       ],
       "carMinutes": 13,
@@ -1829,18 +1829,18 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 12,
-      "dailyCommuters": 706,
+      "dailyCommuters": 795,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 68,
-      "name": "Rainier Valley → South Lake Union",
-      "description": "704 daily commuters",
+      "name": "Lake City → South Lake Union",
+      "description": "794 daily commuters",
       "coordinates": [
         [
-          47.5318,
-          -122.2762
+          47.7175,
+          -122.288
         ],
         [
           47.624,
@@ -1857,22 +1857,22 @@
       "transitWalkMinutes": 21,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 704,
+      "dailyCommuters": 794,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 69,
-      "name": "Columbia City → South Lake Union",
-      "description": "698 daily commuters",
+      "name": "Lake City → Downtown Bellevue",
+      "description": "789 daily commuters",
       "coordinates": [
         [
-          47.5592,
-          -122.2906
+          47.7175,
+          -122.288
         ],
         [
-          47.624,
-          -122.3366
+          47.6162,
+          -122.2018
         ]
       ],
       "carMinutes": 13,
@@ -1885,18 +1885,18 @@
       "transitWalkMinutes": 11,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 9,
-      "dailyCommuters": 698,
+      "dailyCommuters": 789,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 70,
-      "name": "Magnolia → Mount Baker",
-      "description": "695 daily commuters",
+      "name": "Northgate → Mount Baker",
+      "description": "788 daily commuters",
       "coordinates": [
         [
-          47.6478,
-          -122.4007
+          47.7058,
+          -122.3264
         ],
         [
           47.5817,
@@ -1913,22 +1913,22 @@
       "transitWalkMinutes": 4,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 12,
-      "dailyCommuters": 695,
+      "dailyCommuters": 788,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 71,
-      "name": "Delridge → West Seattle",
-      "description": "694 daily commuters",
+      "name": "Rainier Valley → Downtown Bellevue",
+      "description": "782 daily commuters",
       "coordinates": [
         [
-          47.5295,
-          -122.363
+          47.5318,
+          -122.2762
         ],
         [
-          47.5603,
-          -122.3868
+          47.6162,
+          -122.2018
         ]
       ],
       "carMinutes": 10,
@@ -1941,22 +1941,22 @@
       "transitWalkMinutes": 6,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 6,
-      "dailyCommuters": 694,
+      "dailyCommuters": 782,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 72,
-      "name": "Ballard → Belltown",
-      "description": "692 daily commuters",
+      "name": "Queen Anne → Mount Baker",
+      "description": "775 daily commuters",
       "coordinates": [
         [
-          47.6677,
-          -122.3831
+          47.6373,
+          -122.3565
         ],
         [
-          47.613,
-          -122.349
+          47.5817,
+          -122.2927
         ]
       ],
       "carMinutes": 13,
@@ -1968,22 +1968,22 @@
       "transitWalkMinutes": 12,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 692,
+      "dailyCommuters": 775,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 73,
-      "name": "South Lake Union → Belltown",
-      "description": "685 daily commuters",
+      "name": "Downtown → Mount Baker",
+      "description": "769 daily commuters",
       "coordinates": [
         [
-          47.624,
-          -122.3366
+          47.605,
+          -122.335
         ],
         [
-          47.613,
-          -122.349
+          47.5817,
+          -122.2927
         ]
       ],
       "carMinutes": 8,
@@ -1995,22 +1995,22 @@
       "transitWalkMinutes": 14,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 685,
+      "dailyCommuters": 769,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 74,
-      "name": "Greenwood → Mount Baker",
-      "description": "651 daily commuters",
+      "name": "Ballard → First Hill",
+      "description": "765 daily commuters",
       "coordinates": [
         [
-          47.693,
-          -122.3555
+          47.6677,
+          -122.3831
         ],
         [
-          47.5817,
-          -122.2927
+          47.6065,
+          -122.3188
         ]
       ],
       "carMinutes": 17,
@@ -2024,18 +2024,18 @@
       "transitWalkMinutes": 9,
       "transitTransfers": 2,
       "transitMaxWaitMinutes": 9,
-      "dailyCommuters": 651,
+      "dailyCommuters": 765,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 75,
-      "name": "Belltown → South Lake Union",
-      "description": "642 daily commuters",
+      "name": "Loyal Heights → South Lake Union",
+      "description": "761 daily commuters",
       "coordinates": [
         [
-          47.613,
-          -122.349
+          47.6862,
+          -122.3941
         ],
         [
           47.624,
@@ -2051,22 +2051,22 @@
       "transitWalkMinutes": 17,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 642,
+      "dailyCommuters": 761,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 76,
-      "name": "Capitol Hill → Belltown",
-      "description": "630 daily commuters",
+      "name": "West Seattle → SODO",
+      "description": "761 daily commuters",
       "coordinates": [
         [
-          47.6253,
-          -122.317
+          47.5603,
+          -122.3868
         ],
         [
-          47.613,
-          -122.349
+          47.5791,
+          -122.3294
         ]
       ],
       "carMinutes": 11,
@@ -2078,22 +2078,22 @@
       "transitWalkMinutes": 21,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 630,
+      "dailyCommuters": 761,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 77,
-      "name": "Laurelhurst → Downtown",
-      "description": "628 daily commuters",
+      "name": "Delridge → Mount Baker",
+      "description": "754 daily commuters",
       "coordinates": [
         [
-          47.663,
-          -122.274
+          47.5295,
+          -122.363
         ],
         [
-          47.605,
-          -122.335
+          47.5817,
+          -122.2927
         ]
       ],
       "carMinutes": 13,
@@ -2106,22 +2106,22 @@
       "transitWalkMinutes": 17,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 9,
-      "dailyCommuters": 628,
+      "dailyCommuters": 754,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 78,
-      "name": "Wedgwood → South Lake Union",
-      "description": "617 daily commuters",
+      "name": "Delridge → Belltown",
+      "description": "753 daily commuters",
       "coordinates": [
         [
-          47.6852,
-          -122.285
+          47.5295,
+          -122.363
         ],
         [
-          47.624,
-          -122.3366
+          47.613,
+          -122.349
         ]
       ],
       "carMinutes": 12,
@@ -2134,22 +2134,22 @@
       "transitWalkMinutes": 15,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 617,
+      "dailyCommuters": 753,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 79,
-      "name": "Magnolia → South Lake Union",
-      "description": "616 daily commuters",
+      "name": "Rainier Valley → SODO",
+      "description": "748 daily commuters",
       "coordinates": [
         [
-          47.6478,
-          -122.4007
+          47.5318,
+          -122.2762
         ],
         [
-          47.624,
-          -122.3366
+          47.5791,
+          -122.3294
         ]
       ],
       "carMinutes": 12,
@@ -2162,22 +2162,22 @@
       "transitWalkMinutes": 8,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 6,
-      "dailyCommuters": 616,
+      "dailyCommuters": 748,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 80,
-      "name": "Delridge → Georgetown",
-      "description": "609 daily commuters",
+      "name": "Central District → First Hill",
+      "description": "730 daily commuters",
       "coordinates": [
         [
-          47.5295,
-          -122.363
+          47.6031,
+          -122.2949
         ],
         [
-          47.5505,
-          -122.3244
+          47.6065,
+          -122.3188
         ]
       ],
       "carMinutes": 11,
@@ -2189,22 +2189,22 @@
       "transitWalkMinutes": 21,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 609,
+      "dailyCommuters": 730,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 81,
-      "name": "Queen Anne → South Lake Union",
-      "description": "601 daily commuters",
+      "name": "Greenwood → University District",
+      "description": "728 daily commuters",
       "coordinates": [
         [
-          47.6373,
-          -122.3565
+          47.693,
+          -122.3555
         ],
         [
-          47.624,
-          -122.3366
+          47.6584,
+          -122.3117
         ]
       ],
       "carMinutes": 8,
@@ -2217,22 +2217,22 @@
       "transitWalkMinutes": 7,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 601,
+      "dailyCommuters": 728,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 82,
-      "name": "Phinney Ridge → South Lake Union",
-      "description": "593 daily commuters",
+      "name": "Columbia City → Downtown Bellevue",
+      "description": "725 daily commuters",
       "coordinates": [
         [
-          47.6656,
-          -122.3556
+          47.5592,
+          -122.2906
         ],
         [
-          47.624,
-          -122.3366
+          47.6162,
+          -122.2018
         ]
       ],
       "carMinutes": 8,
@@ -2244,22 +2244,22 @@
       "transitWalkMinutes": 16,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 593,
+      "dailyCommuters": 725,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 83,
-      "name": "Admiral → First Hill",
-      "description": "593 daily commuters",
+      "name": "Mount Baker → Downtown",
+      "description": "707 daily commuters",
       "coordinates": [
         [
-          47.5785,
-          -122.382
+          47.5817,
+          -122.2927
         ],
         [
-          47.6065,
-          -122.3188
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 11,
@@ -2272,22 +2272,22 @@
       "transitWalkMinutes": 7,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 10,
-      "dailyCommuters": 593,
+      "dailyCommuters": 707,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 84,
-      "name": "Ravenna → South Lake Union",
-      "description": "591 daily commuters",
+      "name": "West Seattle → Mount Baker",
+      "description": "706 daily commuters",
       "coordinates": [
         [
-          47.6728,
-          -122.3058
+          47.5603,
+          -122.3868
         ],
         [
-          47.624,
-          -122.3366
+          47.5817,
+          -122.2927
         ]
       ],
       "carMinutes": 12,
@@ -2299,22 +2299,22 @@
       "transitWalkMinutes": 15,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 591,
+      "dailyCommuters": 706,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 85,
-      "name": "Capitol Hill → SODO",
-      "description": "582 daily commuters",
+      "name": "Rainier Valley → South Lake Union",
+      "description": "704 daily commuters",
       "coordinates": [
         [
-          47.6253,
-          -122.317
+          47.5318,
+          -122.2762
         ],
         [
-          47.5791,
-          -122.3294
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 10,
@@ -2326,22 +2326,22 @@
       "transitWalkMinutes": 18,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 582,
+      "dailyCommuters": 704,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 86,
-      "name": "Wallingford → University District",
-      "description": "573 daily commuters",
+      "name": "Columbia City → South Lake Union",
+      "description": "698 daily commuters",
       "coordinates": [
         [
-          47.6601,
-          -122.334
+          47.5592,
+          -122.2906
         ],
         [
-          47.6584,
-          -122.3117
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 6,
@@ -2353,22 +2353,22 @@
       "transitWalkMinutes": 8,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 573,
+      "dailyCommuters": 698,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 87,
-      "name": "Wallingford → South Lake Union",
-      "description": "569 daily commuters",
+      "name": "Magnolia → Mount Baker",
+      "description": "695 daily commuters",
       "coordinates": [
         [
-          47.6601,
-          -122.334
+          47.6478,
+          -122.4007
         ],
         [
-          47.624,
-          -122.3366
+          47.5817,
+          -122.2927
         ]
       ],
       "carMinutes": 8,
@@ -2380,22 +2380,22 @@
       "transitWalkMinutes": 15,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 569,
+      "dailyCommuters": 695,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 88,
-      "name": "Ballard → University District",
-      "description": "568 daily commuters",
+      "name": "Delridge → West Seattle",
+      "description": "694 daily commuters",
       "coordinates": [
         [
-          47.6677,
-          -122.3831
+          47.5295,
+          -122.363
         ],
         [
-          47.6584,
-          -122.3117
+          47.5603,
+          -122.3868
         ]
       ],
       "carMinutes": 16,
@@ -2407,18 +2407,18 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 568,
+      "dailyCommuters": 694,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 89,
-      "name": "First Hill → Belltown",
-      "description": "560 daily commuters",
+      "name": "Ballard → Belltown",
+      "description": "692 daily commuters",
       "coordinates": [
         [
-          47.6065,
-          -122.3188
+          47.6677,
+          -122.3831
         ],
         [
           47.613,
@@ -2434,22 +2434,22 @@
       "transitWalkMinutes": 9,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 560,
+      "dailyCommuters": 692,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 90,
-      "name": "Ravenna → First Hill",
-      "description": "559 daily commuters",
+      "name": "South Lake Union → Belltown",
+      "description": "685 daily commuters",
       "coordinates": [
         [
-          47.6728,
-          -122.3058
+          47.624,
+          -122.3366
         ],
         [
-          47.6065,
-          -122.3188
+          47.613,
+          -122.349
         ]
       ],
       "carMinutes": 14,
@@ -2462,22 +2462,22 @@
       "transitWalkMinutes": 21,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 8,
-      "dailyCommuters": 559,
+      "dailyCommuters": 685,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 91,
-      "name": "Mount Baker → First Hill",
-      "description": "551 daily commuters",
+      "name": "Greenwood → Mount Baker",
+      "description": "651 daily commuters",
       "coordinates": [
+        [
+          47.693,
+          -122.3555
+        ],
         [
           47.5817,
           -122.2927
-        ],
-        [
-          47.6065,
-          -122.3188
         ]
       ],
       "carMinutes": 9,
@@ -2490,22 +2490,22 @@
       "transitWalkMinutes": 9,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 4,
-      "dailyCommuters": 551,
+      "dailyCommuters": 651,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 92,
-      "name": "Lake City → Northgate",
-      "description": "546 daily commuters",
+      "name": "Belltown → South Lake Union",
+      "description": "642 daily commuters",
       "coordinates": [
         [
-          47.7175,
-          -122.288
+          47.613,
+          -122.349
         ],
         [
-          47.7058,
-          -122.3264
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 9,
@@ -2517,22 +2517,22 @@
       "transitWalkMinutes": 13,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 546,
+      "dailyCommuters": 642,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 93,
-      "name": "Laurelhurst → University District",
-      "description": "540 daily commuters",
+      "name": "Capitol Hill → Belltown",
+      "description": "630 daily commuters",
       "coordinates": [
         [
-          47.663,
-          -122.274
+          47.6253,
+          -122.317
         ],
         [
-          47.6584,
-          -122.3117
+          47.613,
+          -122.349
         ]
       ],
       "carMinutes": 7,
@@ -2544,22 +2544,22 @@
       "transitWalkMinutes": 15,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 540,
+      "dailyCommuters": 630,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 94,
-      "name": "First Hill → SODO",
-      "description": "540 daily commuters",
+      "name": "Laurelhurst → Downtown",
+      "description": "628 daily commuters",
       "coordinates": [
         [
-          47.6065,
-          -122.3188
+          47.663,
+          -122.274
         ],
         [
-          47.5791,
-          -122.3294
+          47.605,
+          -122.335
         ]
       ],
       "carMinutes": 7,
@@ -2572,22 +2572,22 @@
       "transitWalkMinutes": 4,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 9,
-      "dailyCommuters": 540,
+      "dailyCommuters": 628,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 95,
-      "name": "Loyal Heights → First Hill",
-      "description": "538 daily commuters",
+      "name": "Wedgwood → South Lake Union",
+      "description": "617 daily commuters",
       "coordinates": [
         [
-          47.6862,
-          -122.3941
+          47.6852,
+          -122.285
         ],
         [
-          47.6065,
-          -122.3188
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 20,
@@ -2600,22 +2600,22 @@
       "transitWalkMinutes": 8,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 6,
-      "dailyCommuters": 538,
+      "dailyCommuters": 617,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 96,
-      "name": "Greenwood → Belltown",
-      "description": "537 daily commuters",
+      "name": "Magnolia → South Lake Union",
+      "description": "616 daily commuters",
       "coordinates": [
         [
-          47.693,
-          -122.3555
+          47.6478,
+          -122.4007
         ],
         [
-          47.613,
-          -122.349
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 15,
@@ -2627,22 +2627,22 @@
       "transitWalkMinutes": 8,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 537,
+      "dailyCommuters": 616,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 97,
-      "name": "Georgetown → Downtown",
-      "description": "537 daily commuters",
+      "name": "Delridge → Georgetown",
+      "description": "609 daily commuters",
       "coordinates": [
+        [
+          47.5295,
+          -122.363
+        ],
         [
           47.5505,
           -122.3244
-        ],
-        [
-          47.605,
-          -122.335
         ]
       ],
       "carMinutes": 10,
@@ -2654,22 +2654,22 @@
       "transitWalkMinutes": 8,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 537,
+      "dailyCommuters": 609,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 98,
-      "name": "Madison Valley → First Hill",
-      "description": "535 daily commuters",
+      "name": "Queen Anne → South Lake Union",
+      "description": "601 daily commuters",
       "coordinates": [
         [
-          47.6175,
-          -122.2912
+          47.6373,
+          -122.3565
         ],
         [
-          47.6065,
-          -122.3188
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 7,
@@ -2681,22 +2681,22 @@
       "transitWalkMinutes": 26,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 535,
+      "dailyCommuters": 601,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 99,
-      "name": "Columbia City → SODO",
-      "description": "535 daily commuters",
+      "name": "Wedgwood → Downtown Bellevue",
+      "description": "597 daily commuters",
       "coordinates": [
         [
-          47.5592,
-          -122.2906
+          47.6852,
+          -122.285
         ],
         [
-          47.5791,
-          -122.3294
+          47.6162,
+          -122.2018
         ]
       ],
       "carMinutes": 8,
@@ -2708,18 +2708,18 @@
       "transitWalkMinutes": 10,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 535,
+      "dailyCommuters": 597,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 100,
-      "name": "Admiral → South Lake Union",
-      "description": "533 daily commuters",
+      "name": "Phinney Ridge → South Lake Union",
+      "description": "593 daily commuters",
       "coordinates": [
         [
-          47.5785,
-          -122.382
+          47.6656,
+          -122.3556
         ],
         [
           47.624,
@@ -2736,22 +2736,22 @@
       "transitWalkMinutes": 9,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 7,
-      "dailyCommuters": 533,
+      "dailyCommuters": 593,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 101,
-      "name": "Northgate → SODO",
-      "description": "520 daily commuters",
+      "name": "Admiral → First Hill",
+      "description": "593 daily commuters",
       "coordinates": [
         [
-          47.7058,
-          -122.3264
+          47.5785,
+          -122.382
         ],
         [
-          47.5791,
-          -122.3294
+          47.6065,
+          -122.3188
         ]
       ],
       "carMinutes": 15,
@@ -2763,18 +2763,18 @@
       "transitWalkMinutes": 12,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 520,
+      "dailyCommuters": 593,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 102,
-      "name": "Fremont → South Lake Union",
-      "description": "516 daily commuters",
+      "name": "Ravenna → South Lake Union",
+      "description": "591 daily commuters",
       "coordinates": [
         [
-          47.651,
-          -122.3511
+          47.6728,
+          -122.3058
         ],
         [
           47.624,
@@ -2790,22 +2790,22 @@
       "transitWalkMinutes": 6,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 516,
+      "dailyCommuters": 591,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 103,
-      "name": "Wedgwood → First Hill",
-      "description": "514 daily commuters",
+      "name": "Capitol Hill → SODO",
+      "description": "582 daily commuters",
       "coordinates": [
         [
-          47.6852,
-          -122.285
+          47.6253,
+          -122.317
         ],
         [
-          47.6065,
-          -122.3188
+          47.5791,
+          -122.3294
         ]
       ],
       "carMinutes": 14,
@@ -2818,22 +2818,22 @@
       "transitWalkMinutes": 15,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 7,
-      "dailyCommuters": 514,
+      "dailyCommuters": 582,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 104,
-      "name": "Interbay → Downtown",
-      "description": "499 daily commuters",
+      "name": "Wallingford → University District",
+      "description": "573 daily commuters",
       "coordinates": [
         [
-          47.634,
-          -122.378
+          47.6601,
+          -122.334
         ],
         [
-          47.605,
-          -122.335
+          47.6584,
+          -122.3117
         ]
       ],
       "carMinutes": 13,
@@ -2845,22 +2845,22 @@
       "transitWalkMinutes": 17,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 499,
+      "dailyCommuters": 573,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 105,
-      "name": "Lake City → Mount Baker",
-      "description": "497 daily commuters",
+      "name": "Wallingford → South Lake Union",
+      "description": "569 daily commuters",
       "coordinates": [
         [
-          47.7175,
-          -122.288
+          47.6601,
+          -122.334
         ],
         [
-          47.5817,
-          -122.2927
+          47.624,
+          -122.3366
         ]
       ],
       "carMinutes": 19,
@@ -2873,22 +2873,22 @@
       "transitWalkMinutes": 21,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 9,
-      "dailyCommuters": 497,
+      "dailyCommuters": 569,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 106,
-      "name": "Uptown → South Lake Union",
-      "description": "496 daily commuters",
+      "name": "Ballard → University District",
+      "description": "568 daily commuters",
       "coordinates": [
         [
-          47.6218,
-          -122.3544
+          47.6677,
+          -122.3831
         ],
         [
-          47.624,
-          -122.3366
+          47.6584,
+          -122.3117
         ]
       ],
       "carMinutes": 4,
@@ -2900,18 +2900,18 @@
       "transitWalkMinutes": 12,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 496,
+      "dailyCommuters": 568,
       "peakHours": "PM",
       "supplemental": true
     },
     {
       "id": 107,
-      "name": "Northgate → Belltown",
-      "description": "494 daily commuters",
+      "name": "First Hill → Belltown",
+      "description": "560 daily commuters",
       "coordinates": [
         [
-          47.7058,
-          -122.3264
+          47.6065,
+          -122.3188
         ],
         [
           47.613,
@@ -2927,18 +2927,1282 @@
       "transitWalkMinutes": 22,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 494,
+      "dailyCommuters": 560,
       "peakHours": "AM",
       "supplemental": true
     },
     {
       "id": 108,
+      "name": "Ravenna → First Hill",
+      "description": "559 daily commuters",
+      "coordinates": [
+        [
+          47.6728,
+          -122.3058
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 15,
+      "carMinutesPeak": 25,
+      "transitMinutes": 72,
+      "transitModes": [
+        "5",
+        "14"
+      ],
+      "transitWalkMinutes": 7,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 13,
+      "dailyCommuters": 559,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 109,
+      "name": "Madison Valley → Downtown Bellevue",
+      "description": "556 daily commuters",
+      "coordinates": [
+        [
+          47.6175,
+          -122.2912
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 14,
+      "transitMinutes": 35,
+      "transitModes": [
+        "36"
+      ],
+      "transitWalkMinutes": 10,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 556,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 110,
+      "name": "Mount Baker → First Hill",
+      "description": "551 daily commuters",
+      "coordinates": [
+        [
+          47.5817,
+          -122.2927
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 12,
+      "carMinutesPeak": 21,
+      "transitMinutes": 35,
+      "transitModes": [
+        "8"
+      ],
+      "transitWalkMinutes": 16,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 551,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 111,
+      "name": "Lake City → Northgate",
+      "description": "546 daily commuters",
+      "coordinates": [
+        [
+          47.7175,
+          -122.288
+        ],
+        [
+          47.7058,
+          -122.3264
+        ]
+      ],
+      "carMinutes": 13,
+      "carMinutesPeak": 23,
+      "transitMinutes": 39,
+      "transitModes": [
+        "C Line"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 546,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 112,
+      "name": "Magnolia → Downtown Bellevue",
+      "description": "543 daily commuters",
+      "coordinates": [
+        [
+          47.6478,
+          -122.4007
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 16,
+      "carMinutesPeak": 27,
+      "transitMinutes": 56,
+      "transitModes": [
+        "24",
+        "4"
+      ],
+      "transitWalkMinutes": 5,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 10,
+      "dailyCommuters": 543,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 113,
+      "name": "Ravenna → Downtown Bellevue",
+      "description": "542 daily commuters",
+      "coordinates": [
+        [
+          47.6728,
+          -122.3058
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 7,
+      "carMinutesPeak": 11,
+      "transitMinutes": 37,
+      "transitModes": [
+        "50"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 542,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 114,
+      "name": "Laurelhurst → University District",
+      "description": "540 daily commuters",
+      "coordinates": [
+        [
+          47.663,
+          -122.274
+        ],
+        [
+          47.6584,
+          -122.3117
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 22,
+      "transitMinutes": 51,
+      "transitModes": [
+        "44"
+      ],
+      "transitWalkMinutes": 10,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 540,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 115,
+      "name": "First Hill → SODO",
+      "description": "540 daily commuters",
+      "coordinates": [
+        [
+          47.6065,
+          -122.3188
+        ],
+        [
+          47.5791,
+          -122.3294
+        ]
+      ],
+      "carMinutes": 8,
+      "carMinutesPeak": 14,
+      "transitMinutes": 25,
+      "transitModes": [
+        "44"
+      ],
+      "transitWalkMinutes": 9,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 540,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 116,
+      "name": "Downtown → Downtown Bellevue",
+      "description": "540 daily commuters",
+      "coordinates": [
+        [
+          47.605,
+          -122.335
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 23,
+      "carMinutesPeak": 39,
+      "transitMinutes": 76,
+      "transitModes": [
+        "17",
+        "14"
+      ],
+      "transitWalkMinutes": 8,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 10,
+      "dailyCommuters": 540,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 117,
+      "name": "Loyal Heights → First Hill",
+      "description": "538 daily commuters",
+      "coordinates": [
+        [
+          47.6862,
+          -122.3941
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 9,
+      "transitMinutes": 23,
+      "transitModes": [
+        "1 Line"
+      ],
+      "transitWalkMinutes": 20,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 538,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 118,
+      "name": "Greenwood → Belltown",
+      "description": "537 daily commuters",
+      "coordinates": [
+        [
+          47.693,
+          -122.3555
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 16,
+      "carMinutesPeak": 27,
+      "transitMinutes": 50,
+      "transitModes": [
+        "40",
+        "44"
+      ],
+      "transitWalkMinutes": 10,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 6,
+      "dailyCommuters": 537,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 119,
+      "name": "Georgetown → Downtown",
+      "description": "537 daily commuters",
+      "coordinates": [
+        [
+          47.5505,
+          -122.3244
+        ],
+        [
+          47.605,
+          -122.335
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 8,
+      "transitMinutes": 18,
+      "transitModes": [
+        "1"
+      ],
+      "transitWalkMinutes": 10,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 537,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 120,
+      "name": "Madison Valley → First Hill",
+      "description": "535 daily commuters",
+      "coordinates": [
+        [
+          47.6175,
+          -122.2912
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 13,
+      "carMinutesPeak": 25,
+      "transitMinutes": 74,
+      "transitModes": [
+        "62",
+        "14"
+      ],
+      "transitWalkMinutes": 9,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 7,
+      "dailyCommuters": 535,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 121,
+      "name": "Columbia City → SODO",
+      "description": "535 daily commuters",
+      "coordinates": [
+        [
+          47.5592,
+          -122.2906
+        ],
+        [
+          47.5791,
+          -122.3294
+        ]
+      ],
+      "carMinutes": 13,
+      "carMinutesPeak": 23,
+      "transitMinutes": 54,
+      "transitModes": [
+        "5",
+        "3"
+      ],
+      "transitWalkMinutes": 8,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 10,
+      "dailyCommuters": 535,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 122,
+      "name": "Admiral → South Lake Union",
+      "description": "533 daily commuters",
+      "coordinates": [
+        [
+          47.5785,
+          -122.382
+        ],
+        [
+          47.624,
+          -122.3366
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 11,
+      "transitMinutes": 14,
+      "transitModes": [
+        "70"
+      ],
+      "transitWalkMinutes": 6,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 533,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 123,
+      "name": "Uptown → Downtown Bellevue",
+      "description": "528 daily commuters",
+      "coordinates": [
+        [
+          47.6218,
+          -122.3544
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 11,
+      "carMinutesPeak": 19,
+      "transitMinutes": 55,
+      "transitModes": [
+        "70",
+        "14"
+      ],
+      "transitWalkMinutes": 4,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 6,
+      "dailyCommuters": 528,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 124,
+      "name": "Wallingford → Downtown Bellevue",
+      "description": "528 daily commuters",
+      "coordinates": [
+        [
+          47.6601,
+          -122.334
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 17,
+      "carMinutesPeak": 26,
+      "transitMinutes": 50,
+      "transitModes": [
+        "40",
+        "131"
+      ],
+      "transitWalkMinutes": 1,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 5,
+      "dailyCommuters": 528,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 125,
+      "name": "Mercer Island → First Hill",
+      "description": "527 daily commuters",
+      "coordinates": [
+        [
+          47.5707,
+          -122.2219
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 18,
+      "transitMinutes": 37,
+      "transitModes": [
+        "43"
+      ],
+      "transitWalkMinutes": 5,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 527,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 126,
+      "name": "Queen Anne → Downtown Bellevue",
+      "description": "521 daily commuters",
+      "coordinates": [
+        [
+          47.6373,
+          -122.3565
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 16,
+      "transitMinutes": 34,
+      "transitModes": [
+        "106"
+      ],
+      "transitWalkMinutes": 19,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 521,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 127,
+      "name": "Northgate → SODO",
+      "description": "520 daily commuters",
+      "coordinates": [
+        [
+          47.7058,
+          -122.3264
+        ],
+        [
+          47.5791,
+          -122.3294
+        ]
+      ],
+      "carMinutes": 8,
+      "carMinutesPeak": 16,
+      "transitMinutes": 35,
+      "transitModes": [
+        "70",
+        "322"
+      ],
+      "transitWalkMinutes": 4,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 6,
+      "dailyCommuters": 520,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 128,
+      "name": "Fremont → South Lake Union",
+      "description": "516 daily commuters",
+      "coordinates": [
+        [
+          47.651,
+          -122.3511
+        ],
+        [
+          47.624,
+          -122.3366
+        ]
+      ],
+      "carMinutes": 7,
+      "carMinutesPeak": 8,
+      "transitMinutes": 25,
+      "transitModes": [
+        "79"
+      ],
+      "transitWalkMinutes": 15,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 516,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 129,
+      "name": "Wedgwood → First Hill",
+      "description": "514 daily commuters",
+      "coordinates": [
+        [
+          47.6852,
+          -122.285
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 11,
+      "carMinutesPeak": 21,
+      "transitMinutes": 44,
+      "transitModes": [
+        "62"
+      ],
+      "transitWalkMinutes": 13,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 514,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 130,
+      "name": "Admiral → Downtown Bellevue",
+      "description": "509 daily commuters",
+      "coordinates": [
+        [
+          47.5785,
+          -122.382
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 12,
+      "carMinutesPeak": 21,
+      "transitMinutes": 37,
+      "transitModes": [
+        "8"
+      ],
+      "transitWalkMinutes": 13,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 509,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 131,
+      "name": "Mercer Island → Mount Baker",
+      "description": "502 daily commuters",
+      "coordinates": [
+        [
+          47.5707,
+          -122.2219
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 18,
+      "carMinutesPeak": 33,
+      "transitMinutes": 60,
+      "transitModes": [
+        "75",
+        "2 Line"
+      ],
+      "transitWalkMinutes": 22,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 5,
+      "dailyCommuters": 502,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 132,
+      "name": "Interbay → Downtown",
+      "description": "499 daily commuters",
+      "coordinates": [
+        [
+          47.634,
+          -122.378
+        ],
+        [
+          47.605,
+          -122.335
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 17,
+      "transitMinutes": 49,
+      "transitModes": [
+        "60"
+      ],
+      "transitWalkMinutes": 17,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 499,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 133,
+      "name": "Lake City → Mount Baker",
+      "description": "497 daily commuters",
+      "coordinates": [
+        [
+          47.7175,
+          -122.288
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 9,
+      "transitMinutes": 13,
+      "transitModes": [
+        "70"
+      ],
+      "transitWalkMinutes": 2,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 497,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 134,
+      "name": "Loyal Heights → Downtown Bellevue",
+      "description": "497 daily commuters",
+      "coordinates": [
+        [
+          47.6862,
+          -122.3941
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 17,
+      "carMinutesPeak": 32,
+      "transitMinutes": 72,
+      "transitModes": [
+        "62",
+        "1 Line",
+        "14"
+      ],
+      "transitWalkMinutes": 18,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 8,
+      "dailyCommuters": 497,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 135,
+      "name": "Uptown → South Lake Union",
+      "description": "496 daily commuters",
+      "coordinates": [
+        [
+          47.6218,
+          -122.3544
+        ],
+        [
+          47.624,
+          -122.3366
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 13,
+      "transitMinutes": 24,
+      "transitModes": [
+        "45"
+      ],
+      "transitWalkMinutes": 14,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 496,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 136,
+      "name": "Eastlake → Downtown Bellevue",
+      "description": "495 daily commuters",
+      "coordinates": [
+        [
+          47.6428,
+          -122.3254
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 17,
+      "carMinutesPeak": 32,
+      "transitMinutes": 55,
+      "transitModes": [
+        "1 Line",
+        "33"
+      ],
+      "transitWalkMinutes": 24,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 7,
+      "dailyCommuters": 495,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 137,
+      "name": "Northgate → Belltown",
+      "description": "494 daily commuters",
+      "coordinates": [
+        [
+          47.7058,
+          -122.3264
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 15,
+      "carMinutesPeak": 22,
+      "transitMinutes": 57,
+      "transitModes": [
+        "40",
+        "14"
+      ],
+      "transitWalkMinutes": 5,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 5,
+      "dailyCommuters": 494,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 138,
       "name": "Phinney Ridge → Mount Baker",
       "description": "491 daily commuters",
       "coordinates": [
         [
           47.6656,
           -122.3556
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 9,
+      "carMinutesPeak": 16,
+      "transitMinutes": 27,
+      "transitModes": [
+        "4"
+      ],
+      "transitWalkMinutes": 11,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 491,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 139,
+      "name": "Beacon Hill → Downtown",
+      "description": "487 daily commuters",
+      "coordinates": [
+        [
+          47.5693,
+          -122.3117
+        ],
+        [
+          47.605,
+          -122.335
+        ]
+      ],
+      "carMinutes": 5,
+      "carMinutesPeak": 8,
+      "transitMinutes": 13,
+      "transitModes": [
+        "4"
+      ],
+      "transitWalkMinutes": 5,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 487,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 140,
+      "name": "Madison Valley → South Lake Union",
+      "description": "485 daily commuters",
+      "coordinates": [
+        [
+          47.6175,
+          -122.2912
+        ],
+        [
+          47.624,
+          -122.3366
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 14,
+      "transitMinutes": 34,
+      "transitModes": [
+        "60"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 485,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 141,
+      "name": "West Seattle → Belltown",
+      "description": "482 daily commuters",
+      "coordinates": [
+        [
+          47.5603,
+          -122.3868
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 16,
+      "carMinutesPeak": 29,
+      "transitMinutes": 60,
+      "transitModes": [
+        "45",
+        "1 Line",
+        "14"
+      ],
+      "transitWalkMinutes": 9,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 9,
+      "dailyCommuters": 482,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 142,
+      "name": "Magnolia → First Hill",
+      "description": "482 daily commuters",
+      "coordinates": [
+        [
+          47.6478,
+          -122.4007
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 11,
+      "carMinutesPeak": 16,
+      "transitMinutes": 37,
+      "transitModes": [
+        "24"
+      ],
+      "transitWalkMinutes": 9,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 482,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 143,
+      "name": "Fremont → Downtown Bellevue",
+      "description": "478 daily commuters",
+      "coordinates": [
+        [
+          47.651,
+          -122.3511
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 8,
+      "carMinutesPeak": 10,
+      "transitMinutes": 34,
+      "transitModes": [
+        "8"
+      ],
+      "transitWalkMinutes": 18,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 478,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 144,
+      "name": "Phinney Ridge → Downtown Bellevue",
+      "description": "476 daily commuters",
+      "coordinates": [
+        [
+          47.6656,
+          -122.3556
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 19,
+      "carMinutesPeak": 32,
+      "transitMinutes": 58,
+      "transitModes": [
+        "H Line",
+        "1 Line"
+      ],
+      "transitWalkMinutes": 15,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 6,
+      "dailyCommuters": 476,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 145,
+      "name": "Mount Baker → Downtown Bellevue",
+      "description": "467 daily commuters",
+      "coordinates": [
+        [
+          47.5817,
+          -122.2927
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 7,
+      "carMinutesPeak": 12,
+      "transitMinutes": 24,
+      "transitModes": [
+        "61"
+      ],
+      "transitWalkMinutes": 11,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 467,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 146,
+      "name": "Admiral → SODO",
+      "description": "460 daily commuters",
+      "coordinates": [
+        [
+          47.5785,
+          -122.382
+        ],
+        [
+          47.5791,
+          -122.3294
+        ]
+      ],
+      "carMinutes": 4,
+      "carMinutesPeak": 5,
+      "transitMinutes": 18,
+      "transitModes": [
+        "14"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 460,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 147,
+      "name": "Green Lake → Downtown Bellevue",
+      "description": "459 daily commuters",
+      "coordinates": [
+        [
+          47.68,
+          -122.3285
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 17,
+      "carMinutesPeak": 30,
+      "transitMinutes": 58,
+      "transitModes": [
+        "1 Line",
+        "14"
+      ],
+      "transitWalkMinutes": 18,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 5,
+      "dailyCommuters": 459,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 148,
+      "name": "Wallingford → First Hill",
+      "description": "458 daily commuters",
+      "coordinates": [
+        [
+          47.6601,
+          -122.334
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 18,
+      "carMinutesPeak": 32,
+      "transitMinutes": 55,
+      "transitModes": [
+        "1 Line"
+      ],
+      "transitWalkMinutes": 21,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 458,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 149,
+      "name": "Phinney Ridge → University District",
+      "description": "452 daily commuters",
+      "coordinates": [
+        [
+          47.6656,
+          -122.3556
+        ],
+        [
+          47.6584,
+          -122.3117
+        ]
+      ],
+      "carMinutes": 12,
+      "carMinutesPeak": 19,
+      "transitMinutes": 64,
+      "transitModes": [
+        "56",
+        "14"
+      ],
+      "transitWalkMinutes": 8,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 14,
+      "dailyCommuters": 452,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 150,
+      "name": "Loyal Heights → Mount Baker",
+      "description": "447 daily commuters",
+      "coordinates": [
+        [
+          47.6862,
+          -122.3941
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 13,
+      "carMinutesPeak": 26,
+      "transitMinutes": 45,
+      "transitModes": [
+        "62",
+        "2 Line",
+        "4"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 7,
+      "dailyCommuters": 447,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 151,
+      "name": "Columbia City → Mount Baker",
+      "description": "442 daily commuters",
+      "coordinates": [
+        [
+          47.5592,
+          -122.2906
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 4,
+      "carMinutesPeak": 9,
+      "transitMinutes": 21,
+      "transitModes": [
+        "8"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 442,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 152,
+      "name": "Loyal Heights → University District",
+      "description": "441 daily commuters",
+      "coordinates": [
+        [
+          47.6862,
+          -122.3941
+        ],
+        [
+          47.6584,
+          -122.3117
+        ]
+      ],
+      "carMinutes": 15,
+      "carMinutesPeak": 21,
+      "transitMinutes": 46,
+      "transitModes": [
+        "70",
+        "271"
+      ],
+      "transitWalkMinutes": 7,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 6,
+      "dailyCommuters": 441,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 153,
+      "name": "Uptown → Belltown",
+      "description": "437 daily commuters",
+      "coordinates": [
+        [
+          47.6218,
+          -122.3544
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 16,
+      "carMinutesPeak": 34,
+      "transitMinutes": 38,
+      "transitModes": [
+        "1 Line"
+      ],
+      "transitWalkMinutes": 22,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 437,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 154,
+      "name": "Wallingford → Mount Baker",
+      "description": "434 daily commuters",
+      "coordinates": [
+        [
+          47.6601,
+          -122.334
         ],
         [
           47.5817,
@@ -2955,340 +4219,12 @@
       "transitWalkMinutes": 7,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 13,
-      "dailyCommuters": 491,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 109,
-      "name": "Beacon Hill → Downtown",
-      "description": "487 daily commuters",
-      "coordinates": [
-        [
-          47.5693,
-          -122.3117
-        ],
-        [
-          47.605,
-          -122.335
-        ]
-      ],
-      "carMinutes": 6,
-      "carMinutesPeak": 14,
-      "transitMinutes": 35,
-      "transitModes": [
-        "36"
-      ],
-      "transitWalkMinutes": 10,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 487,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 110,
-      "name": "Madison Valley → South Lake Union",
-      "description": "485 daily commuters",
-      "coordinates": [
-        [
-          47.6175,
-          -122.2912
-        ],
-        [
-          47.624,
-          -122.3366
-        ]
-      ],
-      "carMinutes": 12,
-      "carMinutesPeak": 21,
-      "transitMinutes": 35,
-      "transitModes": [
-        "8"
-      ],
-      "transitWalkMinutes": 16,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 485,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 111,
-      "name": "West Seattle → Belltown",
-      "description": "482 daily commuters",
-      "coordinates": [
-        [
-          47.5603,
-          -122.3868
-        ],
-        [
-          47.613,
-          -122.349
-        ]
-      ],
-      "carMinutes": 13,
-      "carMinutesPeak": 23,
-      "transitMinutes": 39,
-      "transitModes": [
-        "C Line"
-      ],
-      "transitWalkMinutes": 12,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 482,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 112,
-      "name": "Magnolia → First Hill",
-      "description": "482 daily commuters",
-      "coordinates": [
-        [
-          47.6478,
-          -122.4007
-        ],
-        [
-          47.6065,
-          -122.3188
-        ]
-      ],
-      "carMinutes": 16,
-      "carMinutesPeak": 27,
-      "transitMinutes": 56,
-      "transitModes": [
-        "24",
-        "4"
-      ],
-      "transitWalkMinutes": 5,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 10,
-      "dailyCommuters": 482,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 113,
-      "name": "Admiral → SODO",
-      "description": "460 daily commuters",
-      "coordinates": [
-        [
-          47.5785,
-          -122.382
-        ],
-        [
-          47.5791,
-          -122.3294
-        ]
-      ],
-      "carMinutes": 7,
-      "carMinutesPeak": 11,
-      "transitMinutes": 37,
-      "transitModes": [
-        "50"
-      ],
-      "transitWalkMinutes": 12,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 460,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 114,
-      "name": "Wallingford → First Hill",
-      "description": "458 daily commuters",
-      "coordinates": [
-        [
-          47.6601,
-          -122.334
-        ],
-        [
-          47.6065,
-          -122.3188
-        ]
-      ],
-      "carMinutes": 10,
-      "carMinutesPeak": 22,
-      "transitMinutes": 51,
-      "transitModes": [
-        "44"
-      ],
-      "transitWalkMinutes": 10,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 458,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 115,
-      "name": "Phinney Ridge → University District",
-      "description": "452 daily commuters",
-      "coordinates": [
-        [
-          47.6656,
-          -122.3556
-        ],
-        [
-          47.6584,
-          -122.3117
-        ]
-      ],
-      "carMinutes": 8,
-      "carMinutesPeak": 14,
-      "transitMinutes": 25,
-      "transitModes": [
-        "44"
-      ],
-      "transitWalkMinutes": 9,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 452,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 116,
-      "name": "Loyal Heights → Mount Baker",
-      "description": "447 daily commuters",
-      "coordinates": [
-        [
-          47.6862,
-          -122.3941
-        ],
-        [
-          47.5817,
-          -122.2927
-        ]
-      ],
-      "carMinutes": 23,
-      "carMinutesPeak": 39,
-      "transitMinutes": 76,
-      "transitModes": [
-        "17",
-        "14"
-      ],
-      "transitWalkMinutes": 8,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 10,
-      "dailyCommuters": 447,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 117,
-      "name": "Columbia City → Mount Baker",
-      "description": "442 daily commuters",
-      "coordinates": [
-        [
-          47.5592,
-          -122.2906
-        ],
-        [
-          47.5817,
-          -122.2927
-        ]
-      ],
-      "carMinutes": 6,
-      "carMinutesPeak": 9,
-      "transitMinutes": 23,
-      "transitModes": [
-        "1 Line"
-      ],
-      "transitWalkMinutes": 20,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 442,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 118,
-      "name": "Loyal Heights → University District",
-      "description": "441 daily commuters",
-      "coordinates": [
-        [
-          47.6862,
-          -122.3941
-        ],
-        [
-          47.6584,
-          -122.3117
-        ]
-      ],
-      "carMinutes": 16,
-      "carMinutesPeak": 27,
-      "transitMinutes": 50,
-      "transitModes": [
-        "40",
-        "44"
-      ],
-      "transitWalkMinutes": 10,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 6,
-      "dailyCommuters": 441,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 119,
-      "name": "Uptown → Belltown",
-      "description": "437 daily commuters",
-      "coordinates": [
-        [
-          47.6218,
-          -122.3544
-        ],
-        [
-          47.613,
-          -122.349
-        ]
-      ],
-      "carMinutes": 6,
-      "carMinutesPeak": 8,
-      "transitMinutes": 18,
-      "transitModes": [
-        "1"
-      ],
-      "transitWalkMinutes": 10,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 437,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 120,
-      "name": "Wallingford → Mount Baker",
-      "description": "434 daily commuters",
-      "coordinates": [
-        [
-          47.6601,
-          -122.334
-        ],
-        [
-          47.5817,
-          -122.2927
-        ]
-      ],
-      "carMinutes": 13,
-      "carMinutesPeak": 25,
-      "transitMinutes": 74,
-      "transitModes": [
-        "62",
-        "14"
-      ],
-      "transitWalkMinutes": 9,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 7,
       "dailyCommuters": 434,
-      "peakHours": "PM",
+      "peakHours": "AM",
       "supplemental": true
     },
     {
-      "id": 121,
+      "id": 155,
       "name": "Phinney Ridge → First Hill",
       "description": "433 daily commuters",
       "coordinates": [
@@ -3301,22 +4237,52 @@
           -122.3188
         ]
       ],
-      "carMinutes": 13,
-      "carMinutesPeak": 23,
-      "transitMinutes": 54,
+      "carMinutes": 20,
+      "carMinutesPeak": 30,
+      "transitMinutes": 82,
       "transitModes": [
-        "5",
-        "3"
+        "372",
+        "271",
+        "226"
       ],
-      "transitWalkMinutes": 8,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 10,
+      "transitWalkMinutes": 14,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 13,
       "dailyCommuters": 433,
       "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 122,
+      "id": 156,
+      "name": "Mercer Island → South Lake Union",
+      "description": "432 daily commuters",
+      "coordinates": [
+        [
+          47.5707,
+          -122.2219
+        ],
+        [
+          47.624,
+          -122.3366
+        ]
+      ],
+      "carMinutes": 16,
+      "carMinutesPeak": 25,
+      "transitMinutes": 83,
+      "transitModes": [
+        "44",
+        "271",
+        "226"
+      ],
+      "transitWalkMinutes": 13,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 13,
+      "dailyCommuters": 432,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 157,
       "name": "Eastlake → South Lake Union",
       "description": "429 daily commuters",
       "coordinates": [
@@ -3330,12 +4296,12 @@
         ]
       ],
       "carMinutes": 6,
-      "carMinutesPeak": 11,
-      "transitMinutes": 14,
+      "carMinutesPeak": 14,
+      "transitMinutes": 35,
       "transitModes": [
-        "70"
+        "36"
       ],
-      "transitWalkMinutes": 6,
+      "transitWalkMinutes": 10,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
       "dailyCommuters": 429,
@@ -3343,7 +4309,34 @@
       "supplemental": true
     },
     {
-      "id": 123,
+      "id": 158,
+      "name": "Downtown Bellevue → First Hill",
+      "description": "425 daily commuters",
+      "coordinates": [
+        [
+          47.6162,
+          -122.2018
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 12,
+      "carMinutesPeak": 21,
+      "transitMinutes": 35,
+      "transitModes": [
+        "8"
+      ],
+      "transitWalkMinutes": 16,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 425,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 159,
       "name": "Eastlake → Mount Baker",
       "description": "425 daily commuters",
       "coordinates": [
@@ -3356,22 +4349,49 @@
           -122.2927
         ]
       ],
-      "carMinutes": 11,
-      "carMinutesPeak": 19,
-      "transitMinutes": 55,
+      "carMinutes": 13,
+      "carMinutesPeak": 23,
+      "transitMinutes": 39,
       "transitModes": [
-        "70",
-        "14"
+        "C Line"
       ],
-      "transitWalkMinutes": 4,
+      "transitWalkMinutes": 12,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 425,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 160,
+      "name": "Central District → Downtown Bellevue",
+      "description": "425 daily commuters",
+      "coordinates": [
+        [
+          47.6031,
+          -122.2949
+        ],
+        [
+          47.6162,
+          -122.2018
+        ]
+      ],
+      "carMinutes": 16,
+      "carMinutesPeak": 27,
+      "transitMinutes": 56,
+      "transitModes": [
+        "24",
+        "4"
+      ],
+      "transitWalkMinutes": 5,
       "transitTransfers": 1,
-      "transitMaxWaitMinutes": 6,
+      "transitMaxWaitMinutes": 10,
       "dailyCommuters": 425,
       "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 124,
+      "id": 161,
       "name": "Ballard → SODO",
       "description": "422 daily commuters",
       "coordinates": [
@@ -3384,22 +4404,22 @@
           -122.3294
         ]
       ],
-      "carMinutes": 17,
+      "carMinutes": 18,
       "carMinutesPeak": 26,
-      "transitMinutes": 50,
+      "transitMinutes": 55,
       "transitModes": [
-        "40",
-        "131"
+        "31",
+        "271"
       ],
-      "transitWalkMinutes": 1,
+      "transitWalkMinutes": 11,
       "transitTransfers": 1,
-      "transitMaxWaitMinutes": 5,
+      "transitMaxWaitMinutes": 8,
       "dailyCommuters": 422,
-      "peakHours": "AM",
+      "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 125,
+      "id": 162,
       "name": "First Hill → University District",
       "description": "421 daily commuters",
       "coordinates": [
@@ -3412,21 +4432,22 @@
           -122.3117
         ]
       ],
-      "carMinutes": 10,
-      "carMinutesPeak": 18,
-      "transitMinutes": 37,
+      "carMinutes": 16,
+      "carMinutesPeak": 26,
+      "transitMinutes": 55,
       "transitModes": [
-        "43"
+        "44",
+        "271"
       ],
-      "transitWalkMinutes": 5,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
+      "transitWalkMinutes": 11,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 5,
       "dailyCommuters": 421,
       "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 126,
+      "id": 163,
       "name": "Rainier Valley → Mount Baker",
       "description": "420 daily commuters",
       "coordinates": [
@@ -3439,21 +4460,22 @@
           -122.2927
         ]
       ],
-      "carMinutes": 10,
-      "carMinutesPeak": 16,
-      "transitMinutes": 34,
+      "carMinutes": 16,
+      "carMinutesPeak": 24,
+      "transitMinutes": 47,
       "transitModes": [
-        "106"
+        "8",
+        "2 Line"
       ],
-      "transitWalkMinutes": 19,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
+      "transitWalkMinutes": 21,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 9,
       "dailyCommuters": 420,
-      "peakHours": "AM",
+      "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 127,
+      "id": 164,
       "name": "Eastlake → First Hill",
       "description": "419 daily commuters",
       "coordinates": [
@@ -3466,22 +4488,21 @@
           -122.3188
         ]
       ],
-      "carMinutes": 8,
-      "carMinutesPeak": 16,
-      "transitMinutes": 35,
+      "carMinutes": 7,
+      "carMinutesPeak": 11,
+      "transitMinutes": 37,
       "transitModes": [
-        "70",
-        "322"
+        "50"
       ],
-      "transitWalkMinutes": 4,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 6,
+      "transitWalkMinutes": 12,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
       "dailyCommuters": 419,
-      "peakHours": "PM",
+      "peakHours": "AM",
       "supplemental": true
     },
     {
-      "id": 128,
+      "id": 165,
       "name": "Wedgwood → Laurelhurst",
       "description": "418 daily commuters",
       "coordinates": [
@@ -3494,21 +4515,22 @@
           -122.274
         ]
       ],
-      "carMinutes": 7,
-      "carMinutesPeak": 8,
-      "transitMinutes": 25,
+      "carMinutes": 17,
+      "carMinutesPeak": 26,
+      "transitMinutes": 56,
       "transitModes": [
-        "79"
+        "45",
+        "271"
       ],
-      "transitWalkMinutes": 15,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
+      "transitWalkMinutes": 16,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 14,
       "dailyCommuters": 418,
       "peakHours": "AM",
       "supplemental": true
     },
     {
-      "id": 129,
+      "id": 166,
       "name": "Green Lake → South Lake Union",
       "description": "418 daily commuters",
       "coordinates": [
@@ -3521,13 +4543,13 @@
           -122.3366
         ]
       ],
-      "carMinutes": 11,
-      "carMinutesPeak": 21,
-      "transitMinutes": 44,
+      "carMinutes": 10,
+      "carMinutesPeak": 22,
+      "transitMinutes": 51,
       "transitModes": [
-        "62"
+        "44"
       ],
-      "transitWalkMinutes": 13,
+      "transitWalkMinutes": 10,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
       "dailyCommuters": 418,
@@ -3535,7 +4557,7 @@
       "supplemental": true
     },
     {
-      "id": 130,
+      "id": 167,
       "name": "Central District → South Lake Union",
       "description": "417 daily commuters",
       "coordinates": [
@@ -3548,13 +4570,13 @@
           -122.3366
         ]
       ],
-      "carMinutes": 12,
-      "carMinutesPeak": 21,
-      "transitMinutes": 37,
+      "carMinutes": 8,
+      "carMinutesPeak": 14,
+      "transitMinutes": 25,
       "transitModes": [
-        "8"
+        "44"
       ],
-      "transitWalkMinutes": 13,
+      "transitWalkMinutes": 9,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
       "dailyCommuters": 417,
@@ -3562,7 +4584,7 @@
       "supplemental": true
     },
     {
-      "id": 131,
+      "id": 168,
       "name": "Lake City → Belltown",
       "description": "413 daily commuters",
       "coordinates": [
@@ -3575,22 +4597,22 @@
           -122.349
         ]
       ],
-      "carMinutes": 18,
-      "carMinutesPeak": 33,
-      "transitMinutes": 60,
+      "carMinutes": 23,
+      "carMinutesPeak": 39,
+      "transitMinutes": 76,
       "transitModes": [
-        "75",
-        "2 Line"
+        "17",
+        "14"
       ],
-      "transitWalkMinutes": 22,
+      "transitWalkMinutes": 8,
       "transitTransfers": 1,
-      "transitMaxWaitMinutes": 5,
+      "transitMaxWaitMinutes": 10,
       "dailyCommuters": 413,
-      "peakHours": "PM",
+      "peakHours": "AM",
       "supplemental": true
     },
     {
-      "id": 132,
+      "id": 169,
       "name": "Georgetown → First Hill",
       "description": "411 daily commuters",
       "coordinates": [
@@ -3603,13 +4625,13 @@
           -122.3188
         ]
       ],
-      "carMinutes": 10,
-      "carMinutesPeak": 17,
-      "transitMinutes": 49,
+      "carMinutes": 6,
+      "carMinutesPeak": 9,
+      "transitMinutes": 23,
       "transitModes": [
-        "60"
+        "1 Line"
       ],
-      "transitWalkMinutes": 17,
+      "transitWalkMinutes": 20,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
       "dailyCommuters": 411,
@@ -3617,7 +4639,7 @@
       "supplemental": true
     },
     {
-      "id": 133,
+      "id": 170,
       "name": "Eastlake → University District",
       "description": "406 daily commuters",
       "coordinates": [
@@ -3630,21 +4652,22 @@
           -122.3117
         ]
       ],
-      "carMinutes": 6,
-      "carMinutesPeak": 9,
-      "transitMinutes": 13,
+      "carMinutes": 16,
+      "carMinutesPeak": 27,
+      "transitMinutes": 50,
       "transitModes": [
-        "70"
+        "40",
+        "44"
       ],
-      "transitWalkMinutes": 2,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
+      "transitWalkMinutes": 10,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 6,
       "dailyCommuters": 406,
-      "peakHours": "PM",
+      "peakHours": "AM",
       "supplemental": true
     },
     {
-      "id": 134,
+      "id": 171,
       "name": "Wedgwood → Mount Baker",
       "description": "405 daily commuters",
       "coordinates": [
@@ -3655,6 +4678,558 @@
         [
           47.5817,
           -122.2927
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 7,
+      "transitMinutes": 18,
+      "transitModes": [
+        "1"
+      ],
+      "transitWalkMinutes": 10,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 405,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 172,
+      "name": "Downtown Bellevue → Belltown",
+      "description": "403 daily commuters",
+      "coordinates": [
+        [
+          47.6162,
+          -122.2018
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 13,
+      "carMinutesPeak": 25,
+      "transitMinutes": 74,
+      "transitModes": [
+        "62",
+        "14"
+      ],
+      "transitWalkMinutes": 9,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 7,
+      "dailyCommuters": 403,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 173,
+      "name": "Green Lake → University District",
+      "description": "398 daily commuters",
+      "coordinates": [
+        [
+          47.68,
+          -122.3285
+        ],
+        [
+          47.6584,
+          -122.3117
+        ]
+      ],
+      "carMinutes": 13,
+      "carMinutesPeak": 23,
+      "transitMinutes": 54,
+      "transitModes": [
+        "5",
+        "3"
+      ],
+      "transitWalkMinutes": 8,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 10,
+      "dailyCommuters": 398,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 174,
+      "name": "Rainier Valley → Belltown",
+      "description": "397 daily commuters",
+      "coordinates": [
+        [
+          47.5318,
+          -122.2762
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 14,
+      "carMinutesPeak": 25,
+      "transitMinutes": 55,
+      "transitModes": [
+        "630",
+        "C Line"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 7,
+      "dailyCommuters": 397,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 175,
+      "name": "Fremont → Mount Baker",
+      "description": "397 daily commuters",
+      "coordinates": [
+        [
+          47.651,
+          -122.3511
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 11,
+      "transitMinutes": 14,
+      "transitModes": [
+        "70"
+      ],
+      "transitWalkMinutes": 6,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 397,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 176,
+      "name": "Belltown → First Hill",
+      "description": "392 daily commuters",
+      "coordinates": [
+        [
+          47.613,
+          -122.349
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 15,
+      "carMinutesPeak": 30,
+      "transitMinutes": 45,
+      "transitModes": [
+        "550",
+        "4"
+      ],
+      "transitWalkMinutes": 11,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 9,
+      "dailyCommuters": 392,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 177,
+      "name": "Downtown → First Hill",
+      "description": "391 daily commuters",
+      "coordinates": [
+        [
+          47.605,
+          -122.335
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 11,
+      "carMinutesPeak": 19,
+      "transitMinutes": 55,
+      "transitModes": [
+        "70",
+        "14"
+      ],
+      "transitWalkMinutes": 4,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 6,
+      "dailyCommuters": 391,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 178,
+      "name": "Beacon Hill → First Hill",
+      "description": "390 daily commuters",
+      "coordinates": [
+        [
+          47.5693,
+          -122.3117
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 17,
+      "carMinutesPeak": 27,
+      "transitMinutes": 53,
+      "transitModes": [
+        "27",
+        "550"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 7,
+      "dailyCommuters": 390,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 179,
+      "name": "Green Lake → Mount Baker",
+      "description": "386 daily commuters",
+      "coordinates": [
+        [
+          47.68,
+          -122.3285
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 18,
+      "carMinutesPeak": 30,
+      "transitMinutes": 70,
+      "transitModes": [
+        "2 Line",
+        "132"
+      ],
+      "transitWalkMinutes": 27,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 10,
+      "dailyCommuters": 386,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 180,
+      "name": "Magnolia → Belltown",
+      "description": "385 daily commuters",
+      "coordinates": [
+        [
+          47.6478,
+          -122.4007
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 17,
+      "carMinutesPeak": 26,
+      "transitMinutes": 50,
+      "transitModes": [
+        "40",
+        "131"
+      ],
+      "transitWalkMinutes": 1,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 5,
+      "dailyCommuters": 385,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 181,
+      "name": "Madison Valley → Mount Baker",
+      "description": "380 daily commuters",
+      "coordinates": [
+        [
+          47.6175,
+          -122.2912
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 18,
+      "transitMinutes": 37,
+      "transitModes": [
+        "43"
+      ],
+      "transitWalkMinutes": 5,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 380,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 182,
+      "name": "Delridge → University District",
+      "description": "379 daily commuters",
+      "coordinates": [
+        [
+          47.5295,
+          -122.363
+        ],
+        [
+          47.6584,
+          -122.3117
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 16,
+      "transitMinutes": 34,
+      "transitModes": [
+        "106"
+      ],
+      "transitWalkMinutes": 19,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 379,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 183,
+      "name": "Greenwood → Northgate",
+      "description": "373 daily commuters",
+      "coordinates": [
+        [
+          47.693,
+          -122.3555
+        ],
+        [
+          47.7058,
+          -122.3264
+        ]
+      ],
+      "carMinutes": 8,
+      "carMinutesPeak": 16,
+      "transitMinutes": 35,
+      "transitModes": [
+        "70",
+        "322"
+      ],
+      "transitWalkMinutes": 4,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 7,
+      "dailyCommuters": 373,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 184,
+      "name": "Central District → Mount Baker",
+      "description": "372 daily commuters",
+      "coordinates": [
+        [
+          47.6031,
+          -122.2949
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 7,
+      "carMinutesPeak": 8,
+      "transitMinutes": 25,
+      "transitModes": [
+        "79"
+      ],
+      "transitWalkMinutes": 15,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 372,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 185,
+      "name": "Ravenna → Mount Baker",
+      "description": "371 daily commuters",
+      "coordinates": [
+        [
+          47.6728,
+          -122.3058
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 11,
+      "carMinutesPeak": 21,
+      "transitMinutes": 44,
+      "transitModes": [
+        "62"
+      ],
+      "transitWalkMinutes": 13,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 371,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 186,
+      "name": "Rainier Valley → University District",
+      "description": "368 daily commuters",
+      "coordinates": [
+        [
+          47.5318,
+          -122.2762
+        ],
+        [
+          47.6584,
+          -122.3117
+        ]
+      ],
+      "carMinutes": 12,
+      "carMinutesPeak": 21,
+      "transitMinutes": 37,
+      "transitModes": [
+        "8"
+      ],
+      "transitWalkMinutes": 13,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 368,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 187,
+      "name": "Admiral → Mount Baker",
+      "description": "368 daily commuters",
+      "coordinates": [
+        [
+          47.5785,
+          -122.382
+        ],
+        [
+          47.5817,
+          -122.2927
+        ]
+      ],
+      "carMinutes": 18,
+      "carMinutesPeak": 25,
+      "transitMinutes": 77,
+      "transitModes": [
+        "70",
+        "545",
+        "245"
+      ],
+      "transitWalkMinutes": 19,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 8,
+      "dailyCommuters": 368,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 188,
+      "name": "Green Lake → First Hill",
+      "description": "367 daily commuters",
+      "coordinates": [
+        [
+          47.68,
+          -122.3285
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 18,
+      "carMinutesPeak": 33,
+      "transitMinutes": 60,
+      "transitModes": [
+        "75",
+        "2 Line"
+      ],
+      "transitWalkMinutes": 22,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 5,
+      "dailyCommuters": 367,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 189,
+      "name": "Lake City → Laurelhurst",
+      "description": "366 daily commuters",
+      "coordinates": [
+        [
+          47.7175,
+          -122.288
+        ],
+        [
+          47.663,
+          -122.274
+        ]
+      ],
+      "carMinutes": 10,
+      "carMinutesPeak": 17,
+      "transitMinutes": 49,
+      "transitModes": [
+        "60"
+      ],
+      "transitWalkMinutes": 17,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 366,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 190,
+      "name": "Queen Anne → Belltown",
+      "description": "364 daily commuters",
+      "coordinates": [
+        [
+          47.6373,
+          -122.3565
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 6,
+      "carMinutesPeak": 9,
+      "transitMinutes": 13,
+      "transitModes": [
+        "70"
+      ],
+      "transitWalkMinutes": 2,
+      "transitTransfers": 0,
+      "transitMaxWaitMinutes": 0,
+      "dailyCommuters": 364,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 191,
+      "name": "Uptown → First Hill",
+      "description": "363 daily commuters",
+      "coordinates": [
+        [
+          47.6218,
+          -122.3544
+        ],
+        [
+          47.6065,
+          -122.3188
         ]
       ],
       "carMinutes": 17,
@@ -3668,22 +5243,137 @@
       "transitWalkMinutes": 18,
       "transitTransfers": 2,
       "transitMaxWaitMinutes": 8,
-      "dailyCommuters": 405,
+      "dailyCommuters": 363,
       "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 135,
-      "name": "Green Lake → University District",
-      "description": "398 daily commuters",
+      "id": 192,
+      "name": "Columbia City → Belltown",
+      "description": "361 daily commuters",
       "coordinates": [
         [
-          47.68,
-          -122.3285
+          47.5592,
+          -122.2906
+        ],
+        [
+          47.613,
+          -122.349
+        ]
+      ],
+      "carMinutes": 19,
+      "carMinutesPeak": 27,
+      "transitMinutes": 63,
+      "transitModes": [
+        "8",
+        "2 Line",
+        "226"
+      ],
+      "transitWalkMinutes": 16,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 11,
+      "dailyCommuters": 361,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 193,
+      "name": "Admiral → West Seattle",
+      "description": "359 daily commuters",
+      "coordinates": [
+        [
+          47.5785,
+          -122.382
+        ],
+        [
+          47.5603,
+          -122.3868
+        ]
+      ],
+      "carMinutes": 20,
+      "carMinutesPeak": 37,
+      "transitMinutes": 56,
+      "transitModes": [
+        "550",
+        "D Line"
+      ],
+      "transitWalkMinutes": 14,
+      "transitTransfers": 1,
+      "transitMaxWaitMinutes": 10,
+      "dailyCommuters": 359,
+      "peakHours": "PM",
+      "supplemental": true
+    },
+    {
+      "id": 194,
+      "name": "Fremont → University District",
+      "description": "353 daily commuters",
+      "coordinates": [
+        [
+          47.651,
+          -122.3511
         ],
         [
           47.6584,
           -122.3117
+        ]
+      ],
+      "carMinutes": 27,
+      "carMinutesPeak": 42,
+      "transitMinutes": 95,
+      "transitModes": [
+        "H Line",
+        "2 Line",
+        "226"
+      ],
+      "transitWalkMinutes": 18,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 9,
+      "dailyCommuters": 353,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 195,
+      "name": "Queen Anne → First Hill",
+      "description": "347 daily commuters",
+      "coordinates": [
+        [
+          47.6373,
+          -122.3565
+        ],
+        [
+          47.6065,
+          -122.3188
+        ]
+      ],
+      "carMinutes": 23,
+      "carMinutesPeak": 37,
+      "transitMinutes": 86,
+      "transitModes": [
+        "C Line",
+        "2 Line",
+        "226"
+      ],
+      "transitWalkMinutes": 12,
+      "transitTransfers": 2,
+      "transitMaxWaitMinutes": 11,
+      "dailyCommuters": 347,
+      "peakHours": "AM",
+      "supplemental": true
+    },
+    {
+      "id": 196,
+      "name": "Greenwood → SODO",
+      "description": "346 daily commuters",
+      "coordinates": [
+        [
+          47.693,
+          -122.3555
+        ],
+        [
+          47.5791,
+          -122.3294
         ]
       ],
       "carMinutes": 10,
@@ -3695,22 +5385,22 @@
       "transitWalkMinutes": 14,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 398,
+      "dailyCommuters": 346,
       "peakHours": "AM",
       "supplemental": true
     },
     {
-      "id": 136,
-      "name": "Rainier Valley → Belltown",
-      "description": "397 daily commuters",
+      "id": 197,
+      "name": "South Lake Union → First Hill",
+      "description": "345 daily commuters",
       "coordinates": [
         [
-          47.5318,
-          -122.2762
+          47.624,
+          -122.3366
         ],
         [
-          47.613,
-          -122.349
+          47.6065,
+          -122.3188
         ]
       ],
       "carMinutes": 17,
@@ -3723,22 +5413,22 @@
       "transitWalkMinutes": 24,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 7,
-      "dailyCommuters": 397,
+      "dailyCommuters": 345,
       "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 137,
-      "name": "Fremont → Mount Baker",
-      "description": "397 daily commuters",
+      "id": 198,
+      "name": "Lake City → SODO",
+      "description": "343 daily commuters",
       "coordinates": [
         [
-          47.651,
-          -122.3511
+          47.7175,
+          -122.288
         ],
         [
-          47.5817,
-          -122.2927
+          47.5791,
+          -122.3294
         ]
       ],
       "carMinutes": 15,
@@ -3751,22 +5441,22 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 1,
       "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 397,
+      "dailyCommuters": 343,
       "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 138,
-      "name": "Belltown → First Hill",
-      "description": "392 daily commuters",
+      "id": 199,
+      "name": "Greenwood → Ballard",
+      "description": "341 daily commuters",
       "coordinates": [
         [
-          47.613,
-          -122.349
+          47.693,
+          -122.3555
         ],
         [
-          47.6065,
-          -122.3188
+          47.6677,
+          -122.3831
         ]
       ],
       "carMinutes": 9,
@@ -3778,22 +5468,22 @@
       "transitWalkMinutes": 11,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 392,
+      "dailyCommuters": 341,
       "peakHours": "PM",
       "supplemental": true
     },
     {
-      "id": 139,
-      "name": "Downtown → First Hill",
-      "description": "391 daily commuters",
+      "id": 200,
+      "name": "Columbia City → University District",
+      "description": "341 daily commuters",
       "coordinates": [
         [
-          47.605,
-          -122.335
+          47.5592,
+          -122.2906
         ],
         [
-          47.6065,
-          -122.3188
+          47.6584,
+          -122.3117
         ]
       ],
       "carMinutes": 5,
@@ -3805,311 +5495,7 @@
       "transitWalkMinutes": 5,
       "transitTransfers": 0,
       "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 391,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 140,
-      "name": "Beacon Hill → First Hill",
-      "description": "390 daily commuters",
-      "coordinates": [
-        [
-          47.5693,
-          -122.3117
-        ],
-        [
-          47.6065,
-          -122.3188
-        ]
-      ],
-      "carMinutes": 6,
-      "carMinutesPeak": 14,
-      "transitMinutes": 34,
-      "transitModes": [
-        "60"
-      ],
-      "transitWalkMinutes": 12,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 390,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 141,
-      "name": "Green Lake → Mount Baker",
-      "description": "386 daily commuters",
-      "coordinates": [
-        [
-          47.68,
-          -122.3285
-        ],
-        [
-          47.5817,
-          -122.2927
-        ]
-      ],
-      "carMinutes": 16,
-      "carMinutesPeak": 29,
-      "transitMinutes": 60,
-      "transitModes": [
-        "45",
-        "1 Line",
-        "14"
-      ],
-      "transitWalkMinutes": 9,
-      "transitTransfers": 2,
-      "transitMaxWaitMinutes": 9,
-      "dailyCommuters": 386,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 142,
-      "name": "Magnolia → Belltown",
-      "description": "385 daily commuters",
-      "coordinates": [
-        [
-          47.6478,
-          -122.4007
-        ],
-        [
-          47.613,
-          -122.349
-        ]
-      ],
-      "carMinutes": 11,
-      "carMinutesPeak": 16,
-      "transitMinutes": 37,
-      "transitModes": [
-        "24"
-      ],
-      "transitWalkMinutes": 9,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 385,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 143,
-      "name": "Madison Valley → Mount Baker",
-      "description": "380 daily commuters",
-      "coordinates": [
-        [
-          47.6175,
-          -122.2912
-        ],
-        [
-          47.5817,
-          -122.2927
-        ]
-      ],
-      "carMinutes": 8,
-      "carMinutesPeak": 10,
-      "transitMinutes": 34,
-      "transitModes": [
-        "8"
-      ],
-      "transitWalkMinutes": 18,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 380,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 144,
-      "name": "Delridge → University District",
-      "description": "379 daily commuters",
-      "coordinates": [
-        [
-          47.5295,
-          -122.363
-        ],
-        [
-          47.6584,
-          -122.3117
-        ]
-      ],
-      "carMinutes": 19,
-      "carMinutesPeak": 32,
-      "transitMinutes": 58,
-      "transitModes": [
-        "H Line",
-        "1 Line"
-      ],
-      "transitWalkMinutes": 15,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 6,
-      "dailyCommuters": 379,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 145,
-      "name": "Greenwood → Northgate",
-      "description": "373 daily commuters",
-      "coordinates": [
-        [
-          47.693,
-          -122.3555
-        ],
-        [
-          47.7058,
-          -122.3264
-        ]
-      ],
-      "carMinutes": 7,
-      "carMinutesPeak": 12,
-      "transitMinutes": 24,
-      "transitModes": [
-        "61"
-      ],
-      "transitWalkMinutes": 11,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 373,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 146,
-      "name": "Central District → Mount Baker",
-      "description": "372 daily commuters",
-      "coordinates": [
-        [
-          47.6031,
-          -122.2949
-        ],
-        [
-          47.5817,
-          -122.2927
-        ]
-      ],
-      "carMinutes": 4,
-      "carMinutesPeak": 5,
-      "transitMinutes": 18,
-      "transitModes": [
-        "14"
-      ],
-      "transitWalkMinutes": 12,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 372,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 147,
-      "name": "Ravenna → Mount Baker",
-      "description": "371 daily commuters",
-      "coordinates": [
-        [
-          47.6728,
-          -122.3058
-        ],
-        [
-          47.5817,
-          -122.2927
-        ]
-      ],
-      "carMinutes": 17,
-      "carMinutesPeak": 30,
-      "transitMinutes": 58,
-      "transitModes": [
-        "1 Line",
-        "14"
-      ],
-      "transitWalkMinutes": 18,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 5,
-      "dailyCommuters": 371,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 148,
-      "name": "Rainier Valley → University District",
-      "description": "368 daily commuters",
-      "coordinates": [
-        [
-          47.5318,
-          -122.2762
-        ],
-        [
-          47.6584,
-          -122.3117
-        ]
-      ],
-      "carMinutes": 18,
-      "carMinutesPeak": 32,
-      "transitMinutes": 55,
-      "transitModes": [
-        "1 Line"
-      ],
-      "transitWalkMinutes": 21,
-      "transitTransfers": 0,
-      "transitMaxWaitMinutes": 0,
-      "dailyCommuters": 368,
-      "peakHours": "PM",
-      "supplemental": true
-    },
-    {
-      "id": 149,
-      "name": "Admiral → Mount Baker",
-      "description": "368 daily commuters",
-      "coordinates": [
-        [
-          47.5785,
-          -122.382
-        ],
-        [
-          47.5817,
-          -122.2927
-        ]
-      ],
-      "carMinutes": 12,
-      "carMinutesPeak": 19,
-      "transitMinutes": 64,
-      "transitModes": [
-        "56",
-        "14"
-      ],
-      "transitWalkMinutes": 8,
-      "transitTransfers": 1,
-      "transitMaxWaitMinutes": 14,
-      "dailyCommuters": 368,
-      "peakHours": "AM",
-      "supplemental": true
-    },
-    {
-      "id": 150,
-      "name": "Green Lake → First Hill",
-      "description": "367 daily commuters",
-      "coordinates": [
-        [
-          47.68,
-          -122.3285
-        ],
-        [
-          47.6065,
-          -122.3188
-        ]
-      ],
-      "carMinutes": 13,
-      "carMinutesPeak": 26,
-      "transitMinutes": 45,
-      "transitModes": [
-        "62",
-        "2 Line",
-        "4"
-      ],
-      "transitWalkMinutes": 12,
-      "transitTransfers": 2,
-      "transitMaxWaitMinutes": 7,
-      "dailyCommuters": 367,
+      "dailyCommuters": 341,
       "peakHours": "PM",
       "supplemental": true
     }
